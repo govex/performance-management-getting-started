@@ -22,20 +22,6 @@ Principal: The mayor, city manager, or any other (typically elected or appointed
  * Press or non-profit organizations seeking details or context for government data to support the writing of an article or grant application
  * A developer who wants to understand the capacity of the data
 
-Hiring a Stat Analyst
-
-```
-Hiring a Stat Analyst
-
-The stat analyst plays a crucial role in the success of the program. After a few years in this role, the stat analyst may transition to a position within a department, deepening the performance management culture and skills within the city. At a minimum, he or she needs to possess the following skills:
-Intellectual curiosity: He or she must want to discover lessons from the data.
-Interpersonal skills: He or she will need to gain the respect of everyone involved in the performance management program, including department heads and frontline workers. 
-Communication skills: Not only will the stat analyst mine data, he or she will need to communicate what is found in a clear, concise, and compelling way.
-Confidence: Look for someone who is willing to take risks and accept that he or she may make mistakes.
-Basic technical abilities: To create reports and visualizations, he or she must be proficient in data analysis techniques.
-Team attitude: He or she must understand the relationship his or her work has to the work of other analysts on staff.
-```
-
 ### Conducting a Data Inventory
 
 Once the team has been identified, the stat analyst will lead the effort to collect and track data. The first step is to create a data inventory, which is a crucial step to support goal setting. If a city has an existing set of priorities or a strategic framework, use it to guide the data collection process by prioritizing the datasets that are related to the priorities, and the departments that may own the data. 
