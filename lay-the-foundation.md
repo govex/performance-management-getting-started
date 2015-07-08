@@ -22,6 +22,8 @@ Principal: The mayor, city manager, or any other (typically elected or appointed
  * Press or non-profit organizations seeking details or context for government data to support the writing of an article or grant application
  * A developer who wants to understand the capacity of the data
 
+Hiring a Stat Analyst
+
 ```
 Hiring a Stat Analyst
 
