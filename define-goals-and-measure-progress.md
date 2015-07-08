@@ -104,6 +104,7 @@ Validating data is data that is recognized as the standard, or that by its natur
 * Reduced unscheduled overtime and worker’s compensation expenditures by more than $2 million
 * Aligned the budgeting process with city and departmental strategic objectives.
 
+
 #### Mapping Data to Outcomes
 
 Once the data is identified and uploaded, it is time to map the data to outcomes. This requires creating a consistent taxonomy across all measured units or departments of the organization. A taxonomy organizes the process of measuring results in the following way:
