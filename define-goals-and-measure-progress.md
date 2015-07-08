@@ -97,6 +97,13 @@ Validating data is data that is recognized as the standard, or that by its natur
 * **Crime Rate**: The Uniform Crime Reports (FBI) are used domestically as the standard for measuring crime from the national level to the local level.
 * **Educational Test Scores**: Scores from standardized tests are frequently used to measure average student achievement and readiness. These can be local or national tests and provide prevailing data for a particular jurisdiction’s education systems.
 
+> **Louisville, KY**
+
+> In 2012, Louisville, Kentucky, created an Office of Performance Improvement to engage residents in strategic planning, develop and implement an open data portal, and administer LouieStat. LouieStat requires each department to identify data sources and track metrics in order to reach goals determined by the department, city management, and residents. The outcomes have been impressive. By using LouieStat to inform decision making, Louisville seen the following results:
+* Removed more than two hundred days from key administrative processes
+* Reduced unscheduled overtime and worker’s compensation expenditures by more than $2 million
+* Aligned the budgeting process with city and departmental strategic objectives.
+
 #### Mapping Data to Outcomes
 
 Once the data is identified and uploaded, it is time to map the data to outcomes. This requires creating a consistent taxonomy across all measured units or departments of the organization. A taxonomy organizes the process of measuring results in the following way:
