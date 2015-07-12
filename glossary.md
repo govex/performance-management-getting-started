@@ -1,4 +1,4 @@
-# Glossary
+# Glossary 
 
 **Benchmark**: A standard or point of reference against which data may be compared or assessed. May be used in data analytics or in absence of city data.
 
