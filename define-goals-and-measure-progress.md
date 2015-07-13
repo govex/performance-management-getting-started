@@ -3,7 +3,7 @@
 ## A. Set Short, Intermediate, and Long-Term Goals
 
 Once the foundation is established, department leaders and other high-level actors must establish goals and define measurements of success for everyone involved.
-
+ 
 Useful goals have the following elements:
 
 * **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its constituents. Some examples of specific goals are to reduce overtime, increase acres of land using cover crops, or reduce error rates in the administration of benefits.
