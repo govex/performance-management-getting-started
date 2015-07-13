@@ -44,12 +44,12 @@ The stat analyst should set up a meeting with the department lead and his or her
 
 While the city uncovers its data assets, the principal should begin to think about the city’s priorities, which are desired outcomes for the entire city. These priorities may be informed by a formal citywide comprehensive plan or strategic framework, business plan, sustainability plan, campaign priorities, items mentioned in a state of the city address, or by stated strategic goals. The principal should consider all potential forums in which strategic priorities may have been stated, and all potential subject matter areas. These areas are generally consistent across governments, and may fall into the following categories.
 
-1. Public safety
-1. Public health
-1. Education
-1. Sustainability and the environment
-1. Jobs and the economy
-1. Government operations and management
+#####1. Public safety
+#####2. Public health
+#####3. Education
+#####4. Sustainability and the environment
+#####5. Jobs and the economy
+#####6. Government operations and management
 
 
 | Evidence of Citywide Priorities |
