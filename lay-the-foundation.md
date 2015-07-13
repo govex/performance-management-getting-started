@@ -51,7 +51,6 @@ While the city uncovers its data assets, the principal should begin to think abo
 #####5. Jobs and the economy
 #####6. Government operations and management
 
-
 | Evidence of Citywide Priorities |
 | --- |
 | **Bridgeport, CT**: The City of Bridgeport created a [Master Plan of Conservation & Development](https://www.bridgeportct.gov/filestorage/89013/89319/MasterPlanofConservationandDevelopment.pdf) (“Master Plan”) to determine its course for revitalization. The Master Plan acknowledged that “the time is right for a renaissance in Bridgeport,” and the city is poised to become a regional destination. Bridgeport is also part of a [Regional Comprehensive Plan](http://www.gbrct.org/projects/land-use/reconnect/#.VZqoXxNVikp), which provides context for local and regional decision making. Bridgeport has created a Neighborhood Revitalization Zone Strategic Plan of Action as well as a [Parks Master Plan](http://bridgeportct.gov/filestorage/89019/95776/103881/Bridgport_Parks_Manual_2012_print%2Bversion.pdf). Although Bridgeport has not created a comprehensive strategic plan, it is safe to say that revitalization and planning are priorities for the City. |
