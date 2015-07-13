@@ -12,4 +12,4 @@
 * [Appendix B: Sample Stat Memo](appendix-b.md)
 * [Appendix C: Sample Follow-Up Memo](appendix-c.md)
 * [Appendix D: Sample Stat Analyst Job Description](appendix-d.md)
-* [Reese Test](ReeseTest)
+* [Reese Test](ReeseTest.md)
