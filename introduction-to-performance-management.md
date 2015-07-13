@@ -31,8 +31,8 @@ Building organizational culture around the use of data will be important to ensu
 Following is an outline of the actions a city should take to implement a successful stat performance management program:
 
 1. Lay the foundation
+ 1. Identify citywide priorities
  1. Gather a team and data
- 1. Set up or identify existing strategic framework
 1. Define goals and measure progress
  1. Set short, intermediate, and long-term goals
  1. Align data to goals
