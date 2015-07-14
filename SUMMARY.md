@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Introduction to Performance Management](introduction-to-performance-management.md)
-* [Identify Citywide Priorities](identify-citywide-prioritiesmd.md)
 * [Lay The Foundation](lay-the-foundation.md)
 * [Define Goals and Measure Progress](define-goals-and-measure-progress.md)
 * [Conclusion](conclusion.md)
