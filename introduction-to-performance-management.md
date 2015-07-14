@@ -1,4 +1,4 @@
-# An Introduction to Performance Management
+## An Introduction to Performance Management
 
 Until recently, governments made decisions largely based on instinct, anecdotal evidence, and politics. They lacked the time and resources needed to fully review the outcomes of various programs. However, the public sector is shifting toward governing with data thanks to improvements in technology, data collection, and the rise of performance management programs that emphasize the benefits of data-informed decision making. Forward-thinking governments are optimizing the power of data to create greater efficiency and better results for residents.
 
@@ -41,5 +41,5 @@ Following is an outline of the actions a city should take to implement a success
  1. Host a stat meeting
 
 This guide breaks each steps into actions, discusses key strategies to consider for implementation and common pitfalls to avoid, and provides discussion questions to help cities determine next steps that are appropriate in their specific context. 
-Cities that have identified key priorities through a formal strategic framework process or some other way may use those priorities to make decisions about who will be on the team, and to guide the data gathering process as described in the next section. 
+Cities that have identified key priorities through a formal strategic framework process or some other way may use those priorities to make decisions about who will be on the team, and to guide the data gathering process as described in the next section.  
 
