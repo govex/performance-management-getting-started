@@ -32,9 +32,9 @@ Team attitude: He or she must understand the relationship his or her work has to
 
 ### Conducting a Data Inventory
 
-Once the team has been identified, the stat analyst will lead the effort to collect and track data. The first step is to create a data inventory, which is a crucial step to support goal setting. If a city has an existing set of priorities or a strategic framework, use it to guide the data collection process by prioritizing the datasets that are related to the priorities, and the departments that may own the data. 
+Once the team has been identified, the stat analyst will lead the effort to collect and track data. The first step is to create a data inventory, which is crucial to support goal setting. If a city has an existing set of priorities or a strategic framework, use it to guide the data collection process by prioritizing the datasets that are related to the priorities, and the departments that may own the data. 
 
-The stat analyst should set up a meeting with the department lead and his or her leadership team, as well as the data experts mentioned above. Prior to this first meeting, a city should ask the invitees to come to the table with any data they own or know that the department is collecting. Many will not see themselves as data owners or managers, so it is critically important to help them understand what is meant by “data.” These types of questions can help with data collection and discovery before the meeting:
+The stat analyst should set up a meeting with the department lead and his or her leadership team, as well as the data experts mentioned above. Prior to this first meeting, a city should ask the invitees to come to the table with any data they own or know that the department is collecting. Many will not see themselves as data owners or managers, so it is critically important to help them understand what is meant by “data.” The following types of questions can help with data collection and discovery before the meeting. For a more thorough discussion of uncovering datasets, see our [Dataset Prioritization Guidelines](https://docs.google.com/document/d/1JY4o_QUSA8vqnYJrS3RZ5CHF4pA_cJV4ncXMvU4wXwc/edit)
 
 1. Do you provide information for reports on federal, state, or nonprofit grants?
 1. Do you manage a database?
@@ -42,6 +42,8 @@ The stat analyst should set up a meeting with the department lead and his or her
 1. Does your department have a strategic plan or any other key performance objectives?
 1. Is your organization under any oversight from state or federal agencies, external auditors, or investigators? Is there a corrective action plan?
 1. Do you already have a performance-based budgeting or evaluation program?
+1. What data is often requested by the public through FOIA requests, 311 or some other method?
+1. Does the data align with an agency or citywide initiative?
 
 > **Las Vegas, NV**
 
