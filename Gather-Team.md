@@ -1,3 +1,4 @@
+#Lay the Foundation
 ## Gather a Team and Data
 
 It is good to gather key players and engage them right at the start. A city needs certain people to lead with a bird’s-eye view of the entire initiative, while others will focus on the day-to-day details of the data. Think of this as an opportunity to share with staff the reason for the shift to performance management, and some examples of how performance management has worked for other cities.
