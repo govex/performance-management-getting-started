@@ -6,6 +6,7 @@
 * [Gather a Team and Data](gather-team.md)
 * [Set Short, Intermediate, Longterm Goals](set-goals.md)
 * [Align Data to Goals](align-data.md)
+* [Questions for Discussion: Getting the Right Goals](questions-goals.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 * [Appendix A: Performance Management Principles](appendix-a.md)
