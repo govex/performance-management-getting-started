@@ -1,3 +1,4 @@
+#Define Goals and Measure Progress
 ## Align Data to Goals
 
 Once the principal and the department leads have settled on the strategic framework and have set goals, it is time to align data with the city’s goals. Throughout the data uploading process when historical data is transferred to performance management software or a dashboard, the performance management team will have the ability to map the data to both the goals the data supports, and the departments that are responsible for the activities that will advance those goals. The first data uploaded to the performance management dashboard will likely be what was gathered at the inception of this process. It should be data that already exists and is reasonably well organized.
