@@ -9,7 +9,16 @@ Principal: The mayor, city manager, or any other (typically elected or appointed
 
 * **Stat Lead**: An appointed member of the principal’s team that is responsible for overseeing the departments through the performance management process. This person must have credibility with department leaders and direct access to the principal and his or her senior team. This position is akin to a city’s chief operating officer or a mayor’s deputy chief of staff - someone with the gravitas to make things happen.
 
-* **Stat Analyst**: The person responsible for collecting and managing the data used in the performance management program, and preparing analyses and reports of department data. (See Appendix C for a sample stat analyst job description.)
+* **Stat Analyst**: The person responsible for collecting and managing the data used in the performance management program, and preparing analyses and reports of department data. (See [Appendix B](Appendix B: ) for a sample stat analyst job description.)
+
+> Hiring a Stat Analyst
+The stat analyst plays a crucial role in the success of the program. After a few years in this role, the stat analyst may transition to a position within a department, deepening the performance management culture and skills within the city. At a minimum, he or she needs to possess the following skills:
+Intellectual curiosity: He or she must want to discover lessons from the data.
+Interpersonal skills: He or she will need to gain the respect of everyone involved in the performance management program, including department heads and frontline workers. 
+Communication skills: Not only will the stat analyst mine data, he or she will need to communicate what is found in a clear, concise, and compelling way.
+Confidence: Look for someone who is willing to take risks and accept that he or she may make mistakes.
+Basic technical abilities: To create reports and visualizations, he or she must be proficient in data analysis techniques.
+Team attitude: He or she must understand the relationship his or her work has to the work of other analysts on staff.
 
 * **Department Contact**: A person on a department leader’s team, ranging from a database manager to chief of staff, who has the best information related to the metadata, the current use of the data, and the general value and quality of the data. This person may already exist if the department has a chief data officer or a director of research on the team.The department contact is responsible for shepherding the data including curating the data and ensuring that it is clean and in compliance with the metadata. This person will be the main point of contact for the stat team and will play a critical role in making sure the performance management program is a success.
 
