@@ -4,7 +4,7 @@
 * [Introduction to Performance Management](introduction-to-performance-management.md)
 * [Identify Citywide Priorities](Identify-Citywide-Priorities.md)
 * [Gather Team and Data](gather-team-and-data.md)
-* [Define Goals and Measure Progress](define-goals-and-measure-progress.md)
+* [Set Short, Intermediate, Longterm Goals](set-short-intermediate-longterm-goals.md)
 * [Align Data to Goals](align-data-to-goals.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
