@@ -1,6 +1,6 @@
-# II. Define Goals and Measure Progress
+# Define Goals and Measure Progress
 
-## A. Set Short, Intermediate, and Long-Term Goals
+## Set Short, Intermediate, and Long-Term Goals
 
 Once the foundation is established, department leaders and other high-level actors must establish goals and define measurements of success for everyone involved.
 
