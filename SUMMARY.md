@@ -5,6 +5,7 @@
 * [Identify Citywide Priorities](Identify-Citywide-Priorities.md)
 * [Gather Team and Data](gather-team-and-data.md)
 * [Define Goals and Measure Progress](define-goals-and-measure-progress.md)
+* [Align Data to Goals](align-data-to-goals.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 * [Appendix A: Performance Management Principles](appendix-a.md)
