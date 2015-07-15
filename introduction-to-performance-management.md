@@ -40,6 +40,6 @@ Following is an outline of the actions a city should take to implement a success
     * Prepare for the first stat meeting
     *  Host a stat meeting
 
-This guide breaks each steps into actions, discusses key strategies to consider for implementation and common pitfalls to avoid, and provides discussion questions to help cities determine next steps that are appropriate in their specific context. 
+This guide breaks each steps into actions, discusses key strategies to consider for implementation, and provides discussion questions to help cities determine next steps that are appropriate in their specific context. 
 Cities that have identified key priorities through a formal strategic framework process or some other way may use those priorities to make decisions about who will be on the team, and to guide the data gathering process as described in the next section.  
 
