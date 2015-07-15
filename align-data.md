@@ -15,11 +15,11 @@ Understanding the difference between an output metric and an outcome metric is i
 * *Output metric* measures a quantity, volume, or production value of data
 * *Outcome metric*: measures impact that data has on a desired result
 
-A city’s goals should have one prevailing metric, known as a [Key Performance Indicator (KPI)](glossary.md), and may have several additional metrics that provide insight on how the government or department is performing relative to the KPI.
+A city’s goals should have one prevailing outcome metric, known as a [Key Performance Indicator (KPI)](glossary.md), and may have several additional metrics that provide insight on how the government or department is performing relative to the KPI.
 
 ### Selecting First Datasets
 
-Once a city has identified its goals and the corresponding outcome measures, the city must next create data templates.
+Once a city has identified its goals and the corresponding metrics, the city must next create data templates.
 
 A city will upload a broad variety of data to map (to match up and align) to the outcome measures and goals. When possible, the first datasets should be organized by data type, typically in the following categories:
 
