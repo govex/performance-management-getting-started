@@ -6,7 +6,7 @@ Once the foundation is established, department leaders and other high-level acto
 
 Useful goals have the following elements:
 
-* **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its constituents. Some examples of specific goals are to reduce overtime, increase acres of land using cover crops, or reduce error rates in the administration of benefits.
+* **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its constituents. 
 
 * **Measurable**: A city must be able to measure results to show it has achieved its goals. Being able to align data with goals brings credibility to the city’s efforts.
 Clear Timeframe: Giving each goal a timeline improves accountability, internally and externally. When developing a timeline, be sure to include time for reevaluation, progress reporting, and check-ins.
