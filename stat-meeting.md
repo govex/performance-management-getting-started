@@ -23,6 +23,11 @@ New Orleans BlightStat meetings were originally held twice a month due to the in
 ####Guidelines for the Meeting
 Keep in mind that these are not typically public meetings, particularly in the beginning. The session should be no more than 90 minutes and follow the same format every time. Being respectful of everyone’s time is very important. The session should be driven by the data. The department leader should always have an opportunity to start the meeting with good news, then get into areas of concern, and outputs of internal data analysis.
 
+>**The Role of the Analyst at the Stat Meeting**
+
+>The analyst should be the formal recorder of what occurs in the meeting. He or she should be prepared to contextualize any questions concerning the data, as well as drive the data visualizations and have access to the data for in-meeting analytics.
+After the meeting, the analyst should prepare a follow-up memo from the stat session and distribute it in the days following the session (see Appendix B). This document will be used as the basis for the next session and should include clear time frames for a reasonable response.
+
 ####Incorporating the Dashboard
 If a performance management dashboard has been built for the principal to review how the departments are performing, it should always be the landscape for the beginning of the stat meeting. All the data visualizations and the data should be available in the room for on-the-fly analytics and discussion.
 Choose a Meeting Leader
