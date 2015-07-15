@@ -11,7 +11,7 @@ A city will upload a broad variety of data that aligns to the outcome measures a
 
 * *Operational data*, which is typically collected across multiple organizations, such as financial or human resources data.
 * *Subject matter data*, which tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
-* *Validating (external) data*, which are common datasets that are universally understood as standard. Examples include the Uniform Crime Reports (UCR) published by the FBI, The Bureau of Labor Statistics Unemployment Rate, and the the Big Three credit agencies’ bond ratings. The closer your data aligns to validated data, the more credibile your goals become.
+* *Validating (external) data*, which are common datasets that are universally understood as standard. Examples include the Uniform Crime Reports (UCR) published by the FBI, the Bureau of Labor Statistics Unemployment Rate, and the Big Three credit agencies’ bond ratings. The closer the data aligns to validated data, the more credibile the goals become.
 
 #### Operational Data for Measuring Outcomes
 
@@ -38,7 +38,7 @@ Cities that are successful in achieveing results for their residents use subject
 
 #### Validating Data for Measuring Outcomes
 
-Validating data is data that is recognized as the standard, or that  is endorsed publically as the key metric for specific measures. The following are common examples of validating data:
+Validating data is data that is recognized as the standard, or that  is endorsed publicly as the key metric for specific measures. The following are common examples of validating data:
 
 * **Unemployment Rate**: In this changing economy, most governments are focused on employment and use the unemployment rate as a bellwether for economic recovery. This information is provided in a dataset from the [Bureau of Labor Statistics](http://www.bls.gov/), and is universally used as benchmark employment data.
 * **Crime Rate**: The FBI's [Uniform Crime Reports (UCR)](https://www.fbi.gov/about-us/cjis/ucr/ucr) are used domestically as the standard for measuring crime from the national level to the local level.
