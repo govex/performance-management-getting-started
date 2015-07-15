@@ -7,7 +7,7 @@
 * [Set Short, Intermediate, Longterm Goals](set-goals.md)
 * [Align Data to Goals](align-data.md)
 * [Questions for Discussion: Getting the Right Goals](questions-goals.md)
-* [Prepare for the First Stat Meeting](first-meeting.md)
+* [Prepare for the First Stat Meeting](meeting-prep.md)
 * [Host a Stat Meeting](stat-meeting.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
