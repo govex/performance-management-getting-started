@@ -11,7 +11,7 @@ The following list provides a description of each key player:
 
 * **Stat Lead**: An appointed member of the principal’s team that is responsible for overseeing the departments through the performance management process. This person must have credibility with department leaders and direct access to the principal and his or her senior team. This position is akin to a city’s chief operating officer or a mayor’s deputy chief of staff - someone with the gravitas to make things happen.
 
-* **Stat Analyst**: The person responsible for collecting and managing the data used in the performance management program, and preparing analyses and reports of department data. See [Appendix B: Sample Stat Memo](appendix-b.md) for a sample stat analyst job description.
+* **Stat Analyst**: The person responsible for collecting and managing the data used in the performance management program, and preparing analyses and reports of department data. See [Appendix D:](appendix-d.md) for a sample stat analyst job description.
 
 > Hiring a Stat Analyst
 The stat analyst plays a crucial role in the success of the program. After a few years in this role, the stat analyst may transition to a position within a department, deepening the performance management culture and skills within the city. At a minimum, he or she needs to possess the following skills: *Intellectual curiosity:* He or she must want to discover lessons from the data.
