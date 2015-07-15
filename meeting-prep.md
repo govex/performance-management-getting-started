@@ -7,12 +7,12 @@ The next step is to begin to analyze the data and prepare for the first stat mee
 The stat analyst always has important work to do before every stat meeting. He or she provides the materials that guide the focus of the meeting. The stat analyst needs to pay attention to areas addressed in the strategic framework - keeping the legislative cycle, current events, and pressing administrative issues in mind.
 Another important function the stat analyst performs to is to create charts, graphs, maps, and other visualizations which improves understanding of the data.
 
-In addition, the analyst works with the stat lead to determine the priority areas for stat meetings. Before the first stat meeting, the analyst collects input from the department, after which time he or she reviews the indicator data relating to an issue or department and crafts a stat memo (see Appendix A).
+In addition, the analyst works with the stat lead to determine the priority areas for stat meetings. Before the first stat meeting, the analyst collects input from the department, after which time he or she reviews the indicator data relating to an issue or department and crafts a stat memo .
 
 
 ###The Stat Meeting Memo
-The analyst should work with the principal’s senior team (e.g., the mayor’s deputy chief of staff and leadership team) to develop a hierarchy of priorities that the performance management process will focus on as it begins. This initial focus should include input from department leadership, the goal owner (if applicable), the principal, and the stat director. The stat analyst drafts a memo for every stat meeting, based upon that hierarchy of priorities. 
-Here are guidelines for drafting a stat meeting memo see [Appendix B](appendix-b.md) for a sample memo.
+The stat analyst drafts a memo for every stat meeting, based upon that hierarchy of priorities. 
+Here are guidelines for drafting a stat meeting memo (see [Appendix B](appendix-b.md) for a sample memo).
 
 **Memo Intro:** The beginning of the memo should include a list of the topics that will be covered in the meeting. This introduction sets out the organization, agenda, and flow of the meeting.
 
