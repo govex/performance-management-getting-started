@@ -28,7 +28,7 @@ The principal and department leads should develop short, intermediate, and long 
 | Reduce domestic violence crimes by 20% in the next three years |
 | Increase the number of citizens who have health insurance by 10% within four years |
 
-| Long Term Goals: These goals are more ambitious and would take four to 20 years to achieve. The most effective long term goals are driven by outcomes that are easily identified and of equally high value among government stakeholders and the public. These goals are most effective if they create a forcing mechanism for cross-department or multi-department collaboration. Setting goals that span Mayoral administrations demonstrates an unselfish commitment. |
+| Long Term Goals: These goals are more ambitious and would take four to 20 years to achieve. These goals are most effective if they create a forcing mechanism for cross-department or multi-department collaboration. Setting goals that span Mayoral administrations demonstrates an unselfish commitment. |
 | --- |
 | Reduce violent crime by 20% within the next 10 years. |
 | Decrease the infant mortality rate by 10% within the next 12 years. |
