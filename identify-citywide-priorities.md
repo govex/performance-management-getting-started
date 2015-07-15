@@ -1,6 +1,6 @@
 # Lay the Foundation
 ## Identify Citywide Priorities
-While the city uncovers its data assets, the principal should begin to think about the city’s priorities, which are desired outcomes for the entire city. These priorities may be informed by a formal citywide comprehensive plan or strategic framework, business plan, sustainability plan, campaign priorities, items mentioned in a state of the city address, or by stated strategic goals. The principal should consider all potential forums in which strategic priorities may have been stated, and all potential subject matter areas. These areas are generally consistent across governments, and may fall into the following categories.
+While the city uncovers its data assets, the principal should begin to think about the city’s priorities, which are desired outcomes for the entire city. These priorities may be informed by a formal citywide comprehensive plan or strategic framework, business plan, sustainability plan, campaign priorities, items mentioned in a state of the city address, or by stated strategic goals. The city should consider all potential forums in which strategic priorities may have been stated, and all potential subject matter areas. These areas are generally consistent across governments, and may fall into the following categories.
 
 >* Public safety
 1. Public health
