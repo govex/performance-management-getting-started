@@ -2,7 +2,7 @@
 
 Has the city established overarching priorities through a strategic planning process, business plan, long-term goal statement, or some other way? List the priorities and any supporting documentation.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Have the city established long term, short term, or interim goals? Which departments are have established missions or goals? Can these goals be linked to the Citywide goals? Which departments will you engage in performance management initially? How often will departments and priorities be examined? 
+Has the city established long term, short term, or interim goals? Which departments have established missions or goals? Can these goals be linked to the Citywide goals? Which departments will you engage in performance management initially? How often will departments and priorities be examined? 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Is there data easily available for the city to tap into? Is there county, state, or federal data that would be applicable to the goals you want to achieve? If you need to gather datasets, which departments would you prioritize? Who would do this work?
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
