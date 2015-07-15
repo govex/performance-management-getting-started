@@ -8,7 +8,7 @@ Useful goals have the following elements:
 
 * **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services.
 
-* **Measurable**: A city must be able to measure results to show it has achieved its goals. A measurable goal includes targets, metrics, and timelines, which improves accountability internally and externally.tion, progress reporting, and check-ins.
+* **Measurable**: A city must be able to measure results to show it has achieved its goals. A measurable goal includes targets, metrics, and timelines, which improves accountability internally and externally.
 
 * **Citywide**: Goals that are citywide rather than focused on individual departments help a city avoid siloing and achieve results that improve the lives of residents.
 The principal and department leads should develop short, intermediate, and long term goals that the performance management effort can achieve. These will be informed by the strategic priorities, as discussed above.
