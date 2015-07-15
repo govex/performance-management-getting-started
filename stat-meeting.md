@@ -32,3 +32,7 @@ After the meeting, the analyst should prepare a follow-up memo from the stat ses
 If a performance management dashboard has been built for the principal to review how the departments are performing, it should always be the landscape for the beginning of the stat meeting. All the data visualizations and the data should be available in the room for on-the-fly analytics and discussion.
 Choose a Meeting Leader
 The meeting should have a leader. When the principal is in the room, he or she should always lead the meeting. There should be a director or owner of the process that can lead the meeting in the absence of the principal. This person should have the authority to make decisions and the capacity to allocate resources or authorize the allocation of resources. This person should have direct access to the principal and this should be well known to the departments and department contacts.
+
+####Following Up
+
+Follow up is critical to any performance management program, and can be the difference between success and failure. During each meeting, identify issues that need further exploration or deeper analysis, and assign individuals the responsibility to follow up. The memo should make clear the relationship between the issues discussed at the previous meeting and the current meeting. Ideally, each meeting will build on problems, solutions, and commitments made, meeting after meeting. Please see [Appendix D](appendix-d.md) for a sample follow up memo.
