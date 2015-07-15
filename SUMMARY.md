@@ -9,6 +9,7 @@
 * [Questions for Discussion: Getting the Right Goals](questions-goals.md)
 * [Prepare for the First Stat Meeting](meeting-prep.md)
 * [Host a Stat Meeting](stat-meeting.md)
+* [Questions for Discussion: Preparing for Launch](launch-questions.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 * [Appendix A: Performance Management Principles](appendix-a.md)
