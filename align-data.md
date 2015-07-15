@@ -3,10 +3,10 @@
 
 Once the principal and the department leads have settled on the strategic framework and have set goals, it is time to align data with the city’s goals. Throughout the data uploading process when historical data is transferred to performance management software or a dashboard, the performance management team will have the ability to map the data to the goals the data supports, and the departments that are responsible for the activities that will advance those goals. The first data uploaded to the performance management dashboard will likely be what was gathered at the inception of this process. It should be data that already exists and is reasonably well organized.
 
-It is important to introduce organization across goal areas during data collection. To help with this process, assume that most performance management data can be organized into one of two general categories: operational data and subject matter data.
+As you collect your data, keep in mind that performance management data can be organized into operational data and subject matter data.
 
-* *Operational Data*: Operational data is typically collected across multiple organizations, such as financial or human resources data. 
-* *Subject Matter Data*: Subject matter data tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
+* *Operational Data*  is typically collected across multiple organizations, such as financial or human resources data. 
+* *Subject Matter Data* tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
 
 ### Identify Output and Outcome Metrics, KPIs
 
