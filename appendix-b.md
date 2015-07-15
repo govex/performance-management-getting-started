@@ -22,8 +22,8 @@ Attached, for your consideration and review, please find a series of data observ
 
 The following issues will be the focus of this executive briefing memo:
 * Follow-up items (from previous meeting(s)
-* Standing Item I (progress on goals that relate to city priorities)
-* New Item I (timely and relevant items from the news, legislative session, or budget session)
+* Standing Items (progress on goals that relate to city priorities)
+* New Items (timely and relevant items from the news, legislative session, or budget session)
  
 **Follow-Up Items:**
 (Suggested Discussion Length: XX Minutes)
