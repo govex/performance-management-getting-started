@@ -6,7 +6,7 @@ Once the foundation is established, department leaders and other high-level acto
 
 Useful goals have the following elements:
 
-* **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its residents. 
+* **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services.
 
 * **Measurable**: A city must be able to measure results to show it has achieved its goals. A measurable goal includes targets, metrics, and timelines, which improves accountability internally and externally.tion, progress reporting, and check-ins.
 
