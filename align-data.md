@@ -25,7 +25,7 @@ These are high value datasets because they are usually collected across departme
 * Sick leave
 * Open and filled positions
 
-Please see our [Data Set Starter Kit](https://docs.google.com/spreadsheets/d/1lR_oZmHIOvF5JSp4-CGSMOIuzicTkaoQO-mxvgcBTf0/edit#gid=0) for additional data sets to consider.
+Please see our Data Set Starter Kit for additional data sets to consider.
 
 #### Subject Matter Data for Measuring Outcomes
 
