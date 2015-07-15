@@ -6,10 +6,9 @@ Once the foundation is established, department leaders and other high-level acto
 
 Useful goals have the following elements:
 
-* **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its constituents. 
+* **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its residents. 
 
-* **Measurable**: A city must be able to measure results to show it has achieved its goals. Being able to align data with goals brings credibility to the city’s efforts.
-Clear Timeframe: Giving each goal a timeline improves accountability, internally and externally. When developing a timeline, be sure to include time for reevaluation, progress reporting, and check-ins.
+* **Measurable**: A city must be able to measure results to show it has achieved its goals. A measurable goal includes targets, metrics, and timelines, which improves accountability internally and externally.tion, progress reporting, and check-ins.
 
 * **Citywide**: Goals that are citywide rather than focused on individual departments help a city avoid siloing and achieve results that improve the lives of residents.
 The principal and department leads should develop short, intermediate, and long term goals that the performance management effort can achieve. These will be informed by the strategic priorities, as discussed above.
