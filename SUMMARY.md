@@ -7,6 +7,8 @@
 * [Set Short, Intermediate, Longterm Goals](set-goals.md)
 * [Align Data to Goals](align-data.md)
 * [Questions for Discussion: Getting the Right Goals](questions-goals.md)
+* [Prepare for the First Stat Meeting](first-meeting.md)
+* [Host a Stat Meeting](stat-meeting.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 * [Appendix A: Performance Management Principles](appendix-a.md)
