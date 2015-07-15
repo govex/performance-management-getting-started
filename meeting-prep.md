@@ -9,8 +9,9 @@ Another important function the stat analyst performs to is to create charts, gra
 
 In addition, the analyst works with the stat lead to determine the priority areas for stat meetings. Before the first stat meeting, the analyst collects input from the department, after which time he or she reviews the indicator data relating to an issue or department and crafts a stat memo .
 
->Meeting Prep Tips for Stat Analysts
-If the stat analyst wants to prepare for the meeting efficiently, he or she needs to have two important pieces in place:
+>**Meeting Prep Tips for Stat Analysts**
+
+>If the stat analyst wants to prepare for the meeting efficiently, he or she needs to have two important pieces in place:
 * Know the performance management team, especially the department contact, at each contributing department. The analyst should already have established working relationships with every department involved during the data collection phase.
 * Understand the department well. The stat analyst should have a working knowledge of an department’s:
 Strengths and weaknesses
