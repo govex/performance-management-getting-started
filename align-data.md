@@ -5,12 +5,7 @@ Once the principal and the department leads have settled on the strategic framew
 
 ### Identify Metrics and KPIs
 
-As you collect your data, keep in mind that performance management data can be organized into operational data and subject matter data.
-
-* *Operational Data*  is typically collected across multiple organizations, such as financial or human resources data. 
-* *Subject Matter Data* tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
-
-Understanding the difference between an output metric and an outcome metric is important in developing meaningful goals as well.
+Understanding the difference between an output metric and an outcome metric is important in developing meaningful goals.
 
 * *Output metric* measures a quantity, volume, or production value of data
 * *Outcome metric*: measures impact that data has on a desired result
@@ -19,26 +14,27 @@ A city’s goals should have one prevailing outcome metric, known as a [Key Perf
 
 ### Selecting First Datasets
 
-Once a city has identified its goals and the corresponding metrics, the city must next create data templates.
+Once a city has identified its goals and the corresponding metrics, the city must next prioritize its datasets for release.
 
-A city will upload a broad variety of data to map (to match up and align) to the outcome measures and goals. When possible, the first datasets should be organized by data type, typically in the following categories:
+A city will upload a broad variety of data that aligns to the outcome measures and goals. When possible, the first datasets should be organized by data type, typically in the following categories:
 
-* Operational data
-* Subject matter data
-* Validating (external) data
+* *Operational data*, which is typically collected across multiple organizations, such as financial or human resources data.
+* *Subject matter data*, which tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
+* *Validating (external) data*, which are common datasets that are universally understood as standard. Examples include the Uniform Crime Reports (UCR) published by the FBI, The Bureau of Labor Statistics Unemployment Rate, and the the Big Three credit agencies’ bond ratings. The closer your data aligns to validated data, the more credibile your goals become.
 
 #### Operational Data for Measuring Outcomes
 
 There will always be some standard operational data that will be collected consistently across a city government. This operational data will most likely come from a centralized personnel system or financial management system.
 
-These are high value datasets because they are usually collected across departments and are typically standardized. Because of this, they will be used frequently and relied upon when conducting analyses. These datasets should be prioritized when beginning to embark on performance management work. The following are examples of data to include:
+These are high value datasets because they are usually collected across departments and are typically standardized, which makes them ideal for pointing out cross-departmental trends. Because they will be used frequently and relied upon when conducting analyses, these datasets should be prioritized when beginning to embark on performance management work. The following are examples of data to include:
 
-* Budget spend or burn rate
-* Personnel hours: leave earned and used, scheduling
-* Workforce demographics
+* Dollars spent on overtime
+* Overtime hours paid
+* Hours not worked
+* Sick leave
 * Open and filled positions
 
-Please see our Data Set Starter Kit for additional data sets to consider.
+Please see our [Data Set Starter Kit](https://docs.google.com/spreadsheets/d/1lR_oZmHIOvF5JSp4-CGSMOIuzicTkaoQO-mxvgcBTf0/edit#gid=0) for additional data sets to consider.
 
 #### Subject Matter Data for Measuring Outcomes
 
