@@ -43,7 +43,7 @@ The following issues will be the focus of this executive briefing memo:
 
     |*GRAPHIC/ANALYTICS*|
  
-* New Item I
+* **New Item I:**
 (Suggested Discussion Length: XX Minutes)
 
 * *Introduction and discussion of topic. Provide context, including current events, administrative needs, legislative cycle, and why this issue is being introduced. Dive into analysis of data, leading to questions for the panel.*
