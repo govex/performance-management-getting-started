@@ -3,15 +3,6 @@
 
 Once the principal and the department leads have settled on the strategic framework and have set goals, it is time to align data with the city’s goals. Throughout the data uploading process when historical data is transferred to performance management software or a dashboard, the performance management team will have the ability to map the data to the goals the data supports, and the departments that are responsible for the activities that will advance those goals. The first data uploaded to the performance management dashboard will likely be what was gathered at the inception of this process. It should be data that already exists and is reasonably well organized.
 
-### Identify Metrics and KPIs
-
-Understanding the difference between an output metric and an outcome metric is important in developing meaningful goals.
-
-* *Output metric* measures a quantity, volume, or production value of data
-* *Outcome metric* measures impact that data has on a desired result
-
-A city’s goals should have one prevailing outcome metric, known as a [Key Performance Indicator (KPI)](glossary.md), and may have several additional metrics that provide insight on how the government or department is performing relative to the KPI.
-
 ### Selecting First Datasets
 
 Once a city has identified its goals and the corresponding metrics, the city must next prioritize its datasets for release.
