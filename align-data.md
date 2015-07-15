@@ -38,22 +38,19 @@ Please see our [Data Set Starter Kit](https://docs.google.com/spreadsheets/d/1lR
 
 #### Subject Matter Data for Measuring Outcomes
 
-There should also be subject matter data used to measure outcomes. Subject matter data measures program performance, evaluates performance of key functionality, and gives city leadership an indication of how the broad arms of the organization are working together to produce outcomes.
-
-Often this is the data serves as a prevailing metric or a critical indicator that is tracked closely with the city’s goals. By way of example, some subject matter metrics for public safety goals are found in:
+Cities that are successful in achieveing results for their residents use subject matter data to measure outcomes. Subject matter data gives city leadership an indication of how multiple departments are working together to produce outcomes. Some subject matter metrics for public safety goals are found in:
 
 * Offender case management systems
 * Localized crime data
 * Court processing data
 * Warrants
-* Serious offender tracking data, if different from the aforementioned offender case management system
 
 #### Validating Data for Measuring Outcomes
 
-Validating data is data that is recognized as the standard, or that by its nature, is endorsed publically as the key metric for specific measures. The following are common examples of validating data:
+Validating data is data that is recognized as the standard, or that  is endorsed publically as the key metric for specific measures. The following are common examples of validating data:
 
-* **Unemployment Rate**: In this changing economy, most governments are focused on employment and use the unemployment rate as a bellwether for economic recovery. This information is provided in a dataset from the Bureau of Labor Statistics and is universally used as benchmark employment data.
-* **Crime Rate**: The Uniform Crime Reports (FBI) are used domestically as the standard for measuring crime from the national level to the local level.
+* **Unemployment Rate**: In this changing economy, most governments are focused on employment and use the unemployment rate as a bellwether for economic recovery. This information is provided in a dataset from the [Bureau of Labor Statistics](http://www.bls.gov/), and is universally used as benchmark employment data.
+* **Crime Rate**: The FBI's [Uniform Crime Reports (UCR)](https://www.fbi.gov/about-us/cjis/ucr/ucr) are used domestically as the standard for measuring crime from the national level to the local level.
 * **Educational Test Scores**: Scores from standardized tests are frequently used to measure average student achievement and readiness. These can be local or national tests and provide prevailing data for a particular jurisdiction’s education systems.
 
 > **Louisville, KY**
