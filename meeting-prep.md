@@ -11,8 +11,8 @@ In addition, the analyst works with the stat lead to determine the priority area
 
 >Meeting Prep Tips for Stat Analysts
 If the stat analyst wants to prepare for the meeting efficiently, he or she needs to have two important pieces in place:
-1. Know the performance management team, especially the department contact, at each contributing department. The analyst should already have established working relationships with every department involved during the data collection phase.
-2. Understand the department well. The stat analyst should have a working knowledge of an department’s:
+* Know the performance management team, especially the department contact, at each contributing department. The analyst should already have established working relationships with every department involved during the data collection phase.
+* Understand the department well. The stat analyst should have a working knowledge of an department’s:
 Strengths and weaknesses
 Current priorities (policy and legislative)
 Current budget
