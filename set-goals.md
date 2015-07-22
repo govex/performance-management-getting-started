@@ -11,7 +11,9 @@ Useful goals have the following elements:
 * **Measurable**: A city must be able to measure results to show it has achieved its goals. A measurable goal includes targets, metrics, and timelines, which improves accountability internally and externally.
 
 * **Citywide**: Goals that are citywide rather than focused on individual departments help a city avoid siloing and achieve results that improve the lives of residents.
-The principal and department leads should develop short, intermediate, and long term goals that the performance management effort can achieve. These will be informed by the strategic priorities, as discussed above.
+The principal and department leads should develop short, intermediate, and long term goals that the performance management effort can achieve. These will be informed by the strategic priorities, as discussed above. 
+
+Setting a "bold goal" can help to quickly articulate the city's desired result with more specifity than the overarching priority, without going into details of underlying metrics and strategies. A city's goals may cascade--a long-term goal may be supported by intermediate and short-term goals or outcomes--but the goal at the top is considered the bold goal. For example, if your long term goal is to reduce infant mortality by 10% within five years and your short term goal is to increase the number of parents who receive safe sleep training in hospitals by 15% within the next year, the long-term goal would also be the bold goal, the one to use in talking points and speeches.
 
 | Short Term Goals: The short term set of goals should be achievable within one to two years. |
 | --- |
@@ -30,6 +32,7 @@ The principal and department leads should develop short, intermediate, and long 
 
 | Long Term Goals: These goals are more ambitious and would take four to 20 years to achieve. These goals are most effective if they create a forcing mechanism for cross-department or multi-department collaboration. Setting goals that span Mayoral administrations demonstrates an unselfish commitment. |
 | --- |
+| Reduce infant mortality by 10% within five years. |
 | Reduce violent crime by 20% within the next 10 years. |
 | Decrease the infant mortality rate by 10% within the next 12 years. |
 | Improve eighth grade reading and math test scores by 20% in the next 15 years. |
