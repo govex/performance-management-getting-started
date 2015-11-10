@@ -4,7 +4,7 @@
 * [Introduction to Performance Management](introduction-to-performance-management.md)
 * [Identify Citywide Priorities](identify-citywide-priorities.md)
 * [Gather a Team and Data](gather-team.md)
-* [Determine Meeting Structure](structure.md)
+* [Questions for Discussion: Determine Meeting Structure](structure.md)
 * [Set Short, Intermediate, Longterm Goals](set-goals.md)
 * [Align Data to Goals](align-data.md)
 * [Questions for Discussion: Getting the Right Goals](questions-goals.md)
