@@ -11,10 +11,7 @@ If not, who will be their designee?</h5>
 * *Ensure that the same person runs each meeting, to bake continuity into the discussion of performance.*
 
 * *A designee must have the authority to ask departments to follow up on action items that are raised during the meeting, and to hold them accountable for those action items in subsequent meetings. Remember that the person who runs the meeting will set the tone. Will the meetings be contentious and focused on putting departments in the hot seat, or collaborative and dedicated to finding concerted solutions?*
-
-__________________________________________________________________________________________________________________
-__________________________________________________________________________________________________________________
-
+<hr>
 <h5>Will the meetings focus on a subject matter area, internal departmental operations, or both?</h5>
 * *ChattaData meetings are focused on the City's [performance priorities](https://performance.chattanooga.gov/).*
 
