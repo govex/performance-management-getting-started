@@ -25,8 +25,8 @@ ________________________________________________________________________________
 <h5>How will you bring departments to the table and cultivate buy-in for the process?</h5>
 
 * *Sharing information on results that other cities have seen from focusing on performance metrics can help make the case for internal buy-in. Let department heads know that the performance meetings are an opportunity to elevate issues, propose solutions, and request resources.*
-__________________________________________________________________________________________________________________
-__________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
 
 <h5>How frequently will the meetings occur?</h5>
 * *Frequency is important to keep the momentum going. Holding meetings at regular, publicly posted intervals helps build trust with residents by building in accountability.
