@@ -35,6 +35,6 @@ If not, who will be their designee?</h5>
 * *Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the following year at the end of the previous year.*
 <hr>
 
-<h5>Will meetings be public?<h5>
+<h5>Will meetings be public?</h5>
 * *Most performance meetings are not open to the public. Even if your meeting is closed, consider keeping it transparent by publishing the meeting schedule, releasing notes and slides with sensitive information redacted after the meeting, and even [televising](http://kansascity.granicus.com/MediaPlayer.php?view_id=&clip_id=9269) or [live-tweeting](https://twitter.com/hashtag/KCStat?src=hash) the meeting.*
 <hr>
