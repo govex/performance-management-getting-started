@@ -15,6 +15,10 @@ If not, who will be their designee?</h5>
 <h5>Will the meetings focus on a subject matter area, internal departmental operations, or both?</h5>
 * *ChattaData meetings are focused on the City's [performance priorities](https://performance.chattanooga.gov/).*
 
+* *New Orleans has several monthly [STAT meetings](http://www.nola.gov/calendar/stat-meetings/), each focused on a particular subject area, including blight, quality of life, and customer service.*
+
+* *Seattle's [SeaStat](http://www.seattle.gov/seattle-police-department/crime-data/seastat) is aimed at analyzing crime data and community incident reports to identify crime hotspots.*
+
 * *In Maryland's StateStat, each State department had a Stat meeting once a month. Follow up items from the previous month were discussed, as well as new topics and trends. These meetings were complemented by quarterly "subject matter stats," in which all agencies that have ownership of certain topics were present.*
 <hr>
 
@@ -25,5 +29,9 @@ If not, who will be their designee?</h5>
 
 <h5>How frequently will the meetings occur?</h5>
 * *Frequency is important to keep the momentum going. Holding meetings at regular, publicly posted intervals helps build trust with residents by building in accountability.
-Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the following year at the end of the previous year.*
+
+* *Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the following year at the end of the previous year.*
 <hr>
+
+<h5>Will meetings be public?<h5>
+* *Most performance meetings are not open to the public. Even if your meeting is closed, consider keeping it transparent by publishing the meeting schedule, releasing notes and slides with sensitive information redacted after the meeting, and even [televising](http://kansascity.granicus.com/MediaPlayer.php?view_id=&clip_id=9269) or [live-tweeting](https://twitter.com/hashtag/KCStat?src=hash) the meeting.*
