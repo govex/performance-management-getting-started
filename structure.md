@@ -1,8 +1,6 @@
-Performance Management meetings look different in different cities, depending on the desired frequency, focus, and leadership of the meeting. The questions below are meant to guide cities in thinking through what their meeting structure might look like.
+The way that Performance Management meetings are implemented changes from city to city, depending on the desired frequency, focus, and leadership of the meeting. The questions below are meant to guide cities in thinking through what their meeting structure might look like.
 
-Performance Management meetings are critical to setting the tone around the importance of a city's performance targets, to keep the citywide goals top of mind, and to keep momentum going as those at the table work to identify trends and solve problems.
-
-When setting up performance meetings, ensure that the meeting schedule is frequent enough to move the needle on the targets; regularly recurring; public, even if the meetings are not open to the public; and that the meeting is led by the city's chief executive and/or designees.
+Performance Management meetings are critical to setting the tone around the importance of a city's performance targets, to keep the citywide goals top of mind, and to keep momentum going as those at the table work to identify trends and solve problems. When setting up performance meetings, ensure that the meeting schedule is frequent enough to move the needle on the targets; regularly recurring; public, even if the meetings are not open to the public; and that the meeting is led by the city's chief executive and/or designees.
 
 Below are some questions to help determine the structure of performance management meetings:
 
