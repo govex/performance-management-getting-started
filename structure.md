@@ -16,14 +16,14 @@ If not, who will be their designee?</h5>
 * *ChattaData meetings are focused on the City's [performance priorities](https://performance.chattanooga.gov/).*
 
 * *In Maryland's StateStat, each State department had a Stat meeting once a month. Follow up items from the previous month were discussed, as well as new topics and trends. These meetings were complemented by quarterly "subject matter stats," in which all agencies that have ownership of certain topics were present.*
-<hr></hr>
+<hr>
 
 <h5>How will you bring departments to the table and cultivate buy-in for the process?</h5>
 
 * *Sharing information on results that other cities have seen from focusing on performance metrics can help make the case for internal buy-in. Let department heads know that the performance meetings are an opportunity to elevate issues, propose solutions, and request resources.*
-<hr></hr>
+<hr>
 
 <h5>How frequently will the meetings occur?</h5>
 * *Frequency is important to keep the momentum going. Holding meetings at regular, publicly posted intervals helps build trust with residents by building in accountability.
 Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the following year at the end of the previous year.*
-<hr></hr>
+<hr>
