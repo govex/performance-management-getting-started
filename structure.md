@@ -1,3 +1,5 @@
+### Determine the Structure of Performance Management Meetings
+
 Performance Management meetings are implemented uniquely from city to city, depending on the desired frequency, focus, and leadership of the meeting. The questions below are meant to guide cities in thinking through what their meeting structure might look like.
 
 Performance Management meetings are critical to setting the tone around the importance of a city's performance targets, to keep the citywide goals top of mind, and to keep momentum going as those at the table work to identify trends and solve problems. When setting up performance meetings, ensure that the meeting schedule is frequent enough to move the needle on the targets; regularly recurring; public, even if the meetings are not open to the public; and that the meeting is led by the city's chief executive and/or designees.
@@ -28,7 +30,7 @@ If not, who will be their designee?</h5>
 <hr>
 
 <h5>How frequently will the meetings occur?</h5>
-* *Frequency is important to keep the momentum going. Holding meetings at regular, publicly posted intervals helps build trust with residents by building in accountability.
+* *Frequency is important to keep the momentum going. Holding meetings at regular, publicly posted intervals helps build trust with residents by building in accountability.*
 
 * *Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the following year at the end of the previous year.*
 <hr>
