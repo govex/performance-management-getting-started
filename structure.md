@@ -13,7 +13,13 @@ If not, who will be their designee?</h5>
 * *Ensure that the same person runs each meeting, to bake continuity into the discussion of performance.*
 
 * *A designee must have the authority to ask departments to follow up on action items that are raised during the meeting, and to hold them accountable for those action items in subsequent meetings. Remember that the person who runs the meeting will set the tone. Will the meetings be contentious and focused on putting departments in the hot seat, or collaborative and dedicated to finding concerted solutions?*
+
+  > A Note About "Contentious" Meetings
+  
+  > Performance management meetings, especially STAT meetings, have a reputation for being "contentious" and are often described as "gotcha" sessions. While that style can be effective, it is not the only tone worth striving for. A better framing is "problem focused." Performance management meetings should always be problem focused. Problems are inherently difficult, and solving them can be a tense process. Therefore, constructive tension during collaborative problem solving is nothing to be afraid of.
+  
 <hr>
+
 <h5>Will the meetings focus on a subject matter area, internal departmental operations, or both?</h5>
 * *ChattaData meetings are focused on the City's [performance priorities](https://performance.chattanooga.gov/).*
 
@@ -27,12 +33,23 @@ If not, who will be their designee?</h5>
 <h5>How will you bring departments to the table and cultivate buy-in for the process?</h5>
 
 * *Sharing information on results that other cities have seen from focusing on performance metrics can help make the case for internal buy-in. Let department heads know that the performance meetings are an opportunity to elevate issues, propose solutions, and request resources.*
+
+* Cross-departmental participation also drives more creative solutions. So in addition to your program experts, aim for representation from the following divisions:
+  * Finance/Budget      
+  * Procurement
+  * Information Technology
+  * Communications
+  * Legal
+  * Human Resources
+  * Equal Rights
 <hr>
 
 <h5>How frequently will the meetings occur?</h5>
 * *Frequency is important to keep the momentum going. Holding meetings at regular, publicly posted intervals helps build trust with residents by building in accountability.*
 
-* *Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the following year at the end of the previous year.*
+* Consider placing holds on the calendars of all senior executives one year in advance, along with back-up holds in case the orginal meetings get bumped.
+
+* *Kansas City releases its [KCStat schedule](http://kcmo.gov/kcstat/meetings/) for the upcoming year at the end of the previous year.*
 <hr>
 
 <h5>Will meetings be public?</h5>
