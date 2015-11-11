@@ -42,6 +42,7 @@ If not, who will be their designee?</h5>
   * Legal
   * Human Resources
   * Equal Rights
+  * Policy
 <hr>
 
 <h5>How frequently will the meetings occur?</h5>
