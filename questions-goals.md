@@ -6,7 +6,7 @@ Has the city established long term, short term, or interim goals that are associ
 
 If so, are there metrics and a timelines associated with the goals? Can any of these be considered a bold goal? Have you identified a Key Performance Indicator (KPI)?
 
-Is not, brainstorm about what a bold goal might look like for each priority, including timeline, metrics, and KPI.
+If not, brainstorm about what a bold goal might look like for each priority, including timeline, metrics, and KPI.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Which departments are responsible for the stsrategies to meet these goals? Do these departments have their own work plans to achieve the goals? 
 
