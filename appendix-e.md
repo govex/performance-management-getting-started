@@ -1,13 +1,13 @@
-Focusing on the Right Questions
+**Focusing on the Right Questions**
 
 One key issue that many organizations overlook is the ability of managers and staff within the organization to ask the right questions of their data. Collecting and analyzing data is critical, but without knowing what questions to ask and answer, analysis will occur haphazardly. This also reduces buy-in among staff and managers as analysis becomes less useful to daily work.
 The questions below are general questions to guide managers and staff as they begin using performance management techniques regularly. Specific data and circumstances often dictate different and more specific questions, but these questions can help guide management decisions while more specific processes are built.
 
-Problem Identification
-•	What led you to identify this as an area of focus?
-•	How did you know this was a problem? What evidence exists?
-•	Have you checked with other departments to see if they have additional information or perspective on this problem?
-•	Do you discuss this issue internally within your department?
+**Problem Identification**
+* What led you to identify this as an area of focus?
+* How did you know this was a problem? What evidence exists?
+* Have you checked with other departments to see if they have additional information or perspective on this problem?
+* Do you discuss this issue internally within your department?
 
 Data Quality and Analysis
 •	What data did you use to identify the problem and where did it come from?
