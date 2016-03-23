@@ -8,7 +8,7 @@ If so, are there metrics and a timelines associated with the goals? Can any of t
 
 If not, brainstorm about what a bold goal might look like for each priority, including timeline, metrics, and KPI.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-Which departments are responsible for the stsrategies to meet these goals? Do these departments have their own work plans to achieve the goals? 
+Which departments are responsible for the strategies to meet these goals? Do these departments have their own work plans to achieve the goals? 
 
 If there are not yet citywide goals, have any departments established their own missions or goals? Could these be linked to the Citywide priorities?
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
