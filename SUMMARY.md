@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Introduction to Performance Management](introduction-to-performance-management.md)
-* [What is Performance Analytics?](PA.md)
+* [What Is Performance Analytics?](PA.md)
 * [Identify Citywide Priorities](identify-citywide-priorities.md)
 * [Gather a Team and Data](gather-team.md)
 * [Questions for Discussion: Determine Meeting Structure](structure.md)
