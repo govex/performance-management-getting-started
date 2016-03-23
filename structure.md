@@ -1,8 +1,8 @@
 ### Determine the Structure of Performance Management Meetings
 
-Performance Management meetings are implemented uniquely from city to city, depending on the desired frequency, focus, and leadership of the meeting. The questions below are meant to guide cities in thinking through what their meeting structure might look like.
+Performance management meetings are implemented uniquely from city to city, depending on the desired frequency, focus, and leadership of the meeting. The questions below are meant to guide cities in thinking through what their meeting structure might look like.
 
-Performance Management meetings are critical to setting the tone around the importance of a city's performance targets, to keep the citywide goals top of mind, and to keep momentum going as those at the table work to identify trends and solve problems. When setting up performance meetings, ensure that the meeting schedule is frequent enough to move the needle on the targets; regularly recurring; public, even if the meetings are not open to the public; and that the meeting is led by the city's chief executive and/or designees.
+Performance management meetings are critical to setting the tone around the importance of a city's performance targets, to keep the citywide goals top of mind, and to keep momentum going as those at the table work to identify trends and solve problems. When setting up performance meetings, ensure that the meeting schedule is frequent enough to move the needle on the targets; regularly recurring; public, even if the meetings are not open to the public; and that the meeting is led by the city's chief executive and/or designees.
 
 Below are some questions to help determine the structure of performance management meetings:
 
@@ -17,7 +17,7 @@ If not, who will be their designee?
 
   > A Note About "Contentious" Meetings
   
-  > Performance management meetings, especially Stat meetings, have a reputation for being "contentious" and are often described as "gotcha" sessions. While that style can be effective, it is not the only tone worth striving for. A better framing is "problem focused." Performance management meetings should always be problem focused. Problems are inherently difficult, and solving them can be a tense process. Therefore, constructive tension during collaborative problem solving is nothing to be afraid of.
+  > Performance management meetings, especially stat meetings, have a reputation for being "contentious" and are often described as "gotcha" sessions. While that style can be effective, it is not the only tone worth striving for. A better framing is "problem focused." Performance management meetings should always be problem focused. Problems are inherently difficult, and solving them can be a tense process. Therefore, constructive tension during collaborative problem solving is nothing to be afraid of.
   
 <hr>
 
@@ -25,11 +25,11 @@ If not, who will be their designee?
 
 * ChattaData meetings are focused on the City's [performance priorities](https://performance.chattanooga.gov/).
 
-* New Orleans has several monthly [Stat meetings](http://www.nola.gov/calendar/stat-meetings/), each focused on a particular subject area, including blight, quality of life, and customer service.
+* New Orleans has several monthly [stat meetings](http://www.nola.gov/calendar/stat-meetings/), each focused on a particular subject area, including blight, quality of life, and customer service.
 
 * Seattle's [SeaStat](http://www.seattle.gov/seattle-police-department/crime-data/seastat) is aimed at analyzing crime data and community incident reports to identify crime hotspots.
 
-* In Maryland's StateStat, each State department had a Stat meeting once a month. Follow up items from the previous month were discussed, as well as new topics and trends. These meetings were complemented by quarterly "subject matter stats," in which all agencies that have ownership of certain topics were present.
+* In Maryland's StateStat, each State department had a stat meeting once a month. Follow up items from the previous month were discussed, as well as new topics and trends. These meetings were complemented by quarterly "subject matter stats," in which all agencies that have ownership of certain topics were present.
 
 <hr>
 
