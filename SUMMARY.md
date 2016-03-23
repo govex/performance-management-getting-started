@@ -12,7 +12,7 @@
 * [Prepare for the First Stat Meeting](meeting-prep.md)
 * [Host a Stat Meeting](stat-meeting.md)
 * [Questions for Discussion: Preparing for Launch](launch-questions.md)
-* [Putting it All Together](together.md)
+* [Putting It All Together](together.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 * [Appendix A: Performance Management Principles](appendix-a.md)
