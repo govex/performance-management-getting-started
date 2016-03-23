@@ -11,7 +11,7 @@ A city will upload a broad variety of data that aligns to the outcome measures a
 
 * *Operational data*, which is typically collected across multiple organizations, such as financial or human resources data.
 * *Subject matter data*, which tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
-* *Validating (external) data*, which are common datasets that are universally understood as standard. Examples include the Uniform Crime Reports (UCR) published by the FBI, the Bureau of Labor Statistics Unemployment Rate, and the Big Three credit agencies’ bond ratings. The closer the data aligns to validated data, the more credibile the goals become.
+* *Validating (external) data*, which are common datasets that are universally understood as standard. Examples include the Uniform Crime Reports (UCR) published by the FBI, the Bureau of Labor Statistics Unemployment Rate, and the Big Three credit agencies’ bond ratings. The closer the data aligns to validated data, the more credible the goals become.
 
 #### Operational Data for Measuring Outcomes
 
@@ -29,7 +29,7 @@ Please see our Data Set Starter Kit for additional data sets to consider.
 
 #### Subject Matter Data for Measuring Outcomes
 
-Cities that are successful in achieveing results for their residents use subject matter data to measure outcomes. Subject matter data gives city leadership an indication of how multiple departments are working together to produce outcomes. Some subject matter metrics for public safety goals are found in:
+Cities that are successful in achieving results for their residents use subject matter data to measure outcomes. Subject matter data gives city leadership an indication of how multiple departments are working together to produce outcomes. Some subject matter metrics for public safety goals are found in:
 
 * Offender case management systems
 * Localized crime data
