@@ -8,16 +8,23 @@ These meetings should occur at least once a month per department and include all
 
 Different jurisdictions have different timing practices. 
 Maryland’s StateStat program typically has between six to eight topics detailed in a single meeting memo. The amount of time spent on each ranges from five to 30 minutes. Regular meetings are always 90 minutes long. Having a finite time allotted for the meeting allows for predictable and easy scheduling.
+
 The LouieStat team meets with each department every six to eight weeks to discuss goals and progress, with departments holding their own stat meetings in the interim to prepare for the full LouieStat meeting.
+
 New Orleans BlightStat meetings were originally held twice a month due to the intensive need to reduce blight, with meetings then monthly after a year of the program.
 
 ####Who to Invite to a Stat Session
 
 * **Principal:** The principal should always attend the first session to set the tone. It signals to the department that the performance management program is how it would be held accountable to its progress, and it is how the department will be managed. But more importantly, the principal’s attendance is confirmation that the process itself -the participants, the data, the dialogue- is important.
+
 * **Chief of Staff:** The chief of staff or the operational supervisor of the department should always attend. It is important that the department leader sees his or her supervisor at the table. This will also help to confirm the importance of the process in the overall governance methodology of the administration.
+
 * **Department Budget Analyst:** In many cities, there are independent budget departments responsible for assembling and administering the city’s budget, and there is typically a budget analyst assigned to each department. That analyst should always be present at his or her assigned department session, allowing for continuity between the performance management process and the budget process. The budget analysts can also provide background on how decisions around budget were made, what priorities were protected through the budget process in the past, and how decisions around the current budget are shaping up. They add enormous value and should be encouraged to participate in the performance management process.
+
 * **Legal Counsel:** Always have legal counsel at the table; the principal’s own legal counsel is best. Avoid having the department’s attorney on the panel. The purpose of independent counsel on the stat panel is to expedite conversations where legal barriers are present or perceived to be present. 
+
 * **Department Head:** The department head and key personnel should always be at the table. The stat team should rely on the department head to invite the correct people from their organizations. Having other staff at the meetings helps with the flow of the conversation. Many cities have at least ten department leaders at stat meetings with some departments bringing significantly more participants.
+
 * **Additional Participants:** It is also important to invite frontline staff to observe some meetings. This helps illustrate the value of data collected and helps the stat panel stay connected to the barriers to progress that exist on the frontline. Any other management stakeholder should participate. The department’s data officer or data organizer should be present at all meetings.
 
 ####Guidelines for the Meeting
@@ -26,11 +33,13 @@ Keep in mind that these are not typically public meetings, particularly in the b
 >**The Role of the Analyst at the Stat Meeting**
 
 >The analyst should be the formal recorder of what occurs in the meeting. He or she should be prepared to contextualize any questions concerning the data, as well as drive the data visualizations and have access to the data for in-meeting analytics.
+>
 After the meeting, the analyst should prepare a follow-up memo from the stat session and distribute it in the days following the session (see Appendix B). This document will be used as the basis for the next session and should include clear time frames for a reasonable response.
 
 ####Incorporating the Dashboard
 If a performance management dashboard has been built for the principal to review how the departments are performing, it should always be the landscape for the beginning of the stat meeting. All the data visualizations and the data should be available in the room for on-the-fly analytics and discussion.
 Choose a Meeting Leader
+
 The meeting should have a leader. When the principal is in the room, he or she should always lead the meeting. There should be a director or owner of the process that can lead the meeting in the absence of the principal. This person should have the authority to make decisions and the capacity to allocate resources or authorize the allocation of resources. This person should have direct access to the principal and this should be well known to the departments and department contacts.
 
 ####Following Up
