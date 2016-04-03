@@ -16,6 +16,7 @@
   * [Preparing for Launch](launch-questions.md)
   * [Host a Stat Meeting](stat-meeting.md)
 * [Take Action](action.md)
+ * [Causes of Inaction](inaction.md)
 * [Putting It All Together](together.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
