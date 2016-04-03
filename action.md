@@ -25,6 +25,8 @@ A patient could click on each test (each row) and see the results presented this
 
 Since most patients aren’t also doctors, these numbers don’t mean much to most people. So the average person would close his browser and go on about his day, making very few changes to his diet based on the information. But in 2016, Kaiser made a switch. Now, when a patient clicks on a test result, this is what he can see on his mobile app:
 
+<img src="https://raw.githubusercontent.com/govex/performance-management-getting-started/master/Pics/IMG_5469%20(1).PNG">
+
 Instead of looking at numbers, the patient is looking at his life. As time has passed, he sees evidence that his cholesterol is climbing. It’s approaching the upper limit of what Kaiser considers a “standard range.” This information is much harder to ignore, and Kaiser is betting it drives more patients to turn insights about their cholesterol levels into action at the grocery store and dinner table. 
 
 ###What does cholesterol have to do with government inaction?
