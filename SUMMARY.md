@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Establish the Fundamentals](Fundamentals.md)
   * [Understanding Performance Management](introduction-to-performance-management.md)
-    * [What Is Performance Analytics?](PA.md)
+  * [What Is Performance Analytics?](PA.md)
   * [Identify Citywide Priorities](identify-citywide-priorities.md)
   * [Set Short, Intermediate, Longterm Goals](set-goals.md)
     * [Getting the Right Goals](questions-goals.md)
