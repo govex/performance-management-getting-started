@@ -1,0 +1,3 @@
+##Understanding Inaction
+
+It’s easy to think of “inaction” as simply the lack of action, but it isn’t that simple. Inaction is an action. It’s a conscious choice to maintain the status quo. There are many reasons organizations choose not to act on opportunities or insights about their own performance. The diagram below is called a fishbone, or cause and effect diagram. It’s a useful diagnostic tool for figuring out the root causes for a specific problem. In this case, despite evidence that government isn’t performing at its highest potential, there is continued inaction. The key is figuring out why. 
