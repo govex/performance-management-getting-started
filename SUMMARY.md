@@ -6,7 +6,6 @@
   * [What Is Performance Analytics?](PA.md)
   * [Identify Citywide Priorities](identify-citywide-priorities.md)
   * [Set Short, Intermediate, Longterm Goals](set-goals.md)
-    * [Getting the Right Goals](questions-goals.md)
   * [Measure Progress](measure.md)
 * [Gather a Team and Data](gather-team.md)
   * [Align Data to Goals](align-data.md)
