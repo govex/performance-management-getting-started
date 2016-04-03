@@ -22,6 +22,7 @@
  * [Resources](resources.md)
  * [Laws & Policy](laws.md)
  * [Process](process.md)
+ * [Insights](insights.md)
 * [Putting It All Together](together.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
