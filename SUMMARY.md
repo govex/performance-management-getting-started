@@ -20,6 +20,7 @@
  * [People](people.md)
  * [Leadership & Management](LandM.md)
  * [Resources](resources.md)
+ * [Laws & Policy](laws.md)
 * [Putting It All Together](together.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
