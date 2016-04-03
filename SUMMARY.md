@@ -18,6 +18,7 @@
 * [Take Action](action.md)
  * [Causes of Inaction](inaction.md)
  * [People](people.md)
+ * [Leadership & Management](LandM.md)
 * [Putting It All Together](together.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
