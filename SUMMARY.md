@@ -9,6 +9,7 @@
     * [Getting the Right Goals](questions-goals.md)
 * [Gather a Team and Data](gather-team.md)
   * [Align Data to Goals](align-data.md)
+* [Conduct Analysis](Analyze.md)
 * [Convene with Purpose](convene.md)
   * [Prepare for the First Stat Meeting](meeting-prep.md)
   * [Determine Meeting Structure](structure.md)
