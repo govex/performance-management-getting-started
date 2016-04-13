@@ -1,6 +1,6 @@
 ## Establish the Fundamentals
 
-The construction of a sustainable performance management and analytics culture begins with a solid foundation, because strong foundational practices will enable learning, innovation and continuous improvement to fourish. What are the fundamentals?
+The construction of a sustainable performance management and analytics culture begins with a solid foundation, because strong foundational practices will enable learning, innovation and continuous improvement to flourish. What are the fundamentals?
 
 * First, understand what Performance Management means to you and your organization. 
 * Second, get clear about the role of analytics in performance management. 
