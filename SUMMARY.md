@@ -12,6 +12,7 @@
   * [Performance Analytics 101](PA.md)
 * [Convene with Purpose](convene.md)
   * [Is Stat Right for You?](statfit.md)
+  * 30 Reasons to Implement a Stat Program in Your City
   * [Prepare for the First Stat Meeting](meeting-prep.md)
   * [Determine Meeting Structure](structure.md)
   * [Preparing for Launch](launch-questions.md)
