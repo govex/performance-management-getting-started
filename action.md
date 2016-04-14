@@ -27,11 +27,11 @@ Since most patients aren’t also doctors, these numbers don’t mean much to mo
 
 <img src="https://raw.githubusercontent.com/govex/performance-management-getting-started/master/Pics/IMG_5469%20(1).PNG">
 
-Instead of looking at numbers, the patient is looking at his life. As time has passed, he sees evidence that his cholesterol is climbing. It’s approaching the upper limit of what Kaiser considers a “standard range.” This information is much harder to ignore, and Kaiser is betting it drives more patients to turn insights about their cholesterol levels into action at the grocery store and dinner table. 
+Instead of looking at numbers, the patient is looking at his life. As time has passed, he sees evidence that his cholesterol is climbing. It’s approaching the upper limit of what Kaiser considers a “standard range.” This information is much harder to ignore and Kaiser is betting it drives more patients to turn insights about their cholesterol levels into action at the grocery store and dinner table. 
 
 ###What does cholesterol have to do with government inaction?
 
-Kaiser’s example is a microcosm of the challenges faced by governments everywhere: how to use information in a way that helps people make smarter choices that are in their best interest and in the best interest of society. Many governments are struggling to turn insights about their performance into smart and effective delivery changes. There are a host of reasons why, and most aren’t as simple as changing an online chart for residents or employees (although some are). 
+Kaiser’s example is a microcosm of the challenges faced by governments everywhere: how to use information in a way that helps people make smarter choices that are in their best interest and in the best interest of society. Many governments are struggling to turn insights about their performance into smart and effective delivery changes. There are a host of reasons why and most aren’t as simple as changing an online chart for residents or employees (although some are). 
 
 In this guide, the Center for Government Excellence (GovEx) will explore the common causes for government inaction and suggest strategies to either overcome them, work around them, or simply understand them. 
 
