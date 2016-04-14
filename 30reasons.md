@@ -30,7 +30,7 @@ Performance management presents tremendous value to the city administration and 
 20. Provides opportunities for recognizing and rewarding dedicated managers.
 21. Enhances teamwork, and increase staff productivity while improving collective accountability and responsibility.
 22. Identifies problems at their early stages and addresses them before they get out of control.
-23. Promotes efficient use of time, money and resources.
+23. Promotes efficient use of time, money, and resources.
 24. Allows for an opportunity to provide feedback to managers to better align their strength and competencies to improve work outcomes.
 25. Helps to better communicate city strategic goals and priorities to managers and promote understanding of what needs to be done at specified periods.
 26. Enables open conversation between executives, managers and staff about city priorities and promote harmony in a manner that contributes to achieving city objectives.
