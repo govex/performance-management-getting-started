@@ -7,7 +7,7 @@ Unfortunately, Stat programs are not copy and paste initiatives. They must be ad
 ####If the answer to any of these questions is "no," then you are not ready for a stat program. 
 
 * **Do you have a senior executive to champion this work?** 
-Without a champion at the senior executive level, (i.e Mayor, city manager or any other elected or appointed leader) Stat programs are unlikely to be more than collaborative conversations among colleagues. A senior executive can move resources, give direction, and be the ultimate arbiter of tough issues where disagreement exists within the organization. If such an individual exists in your government organization, great. Move on to the next question. Without him or her, a stat program is a non-starter. 
+Without a champion at the senior executive level, (i.e., Mayor, city manager or any other elected or appointed leader) Stat programs are unlikely to be more than collaborative conversations among colleagues. A senior executive can move resources, give direction, and be the ultimate arbiter of tough issues where disagreement exists within the organization. If such an individual exists in your government organization, great. Move on to the next question. Without him or her, a stat program is a non-starter. 
 
 * **Does that champion have the influence to garner participation from the entire management team?**
 The executive champion or principal cannot be a champion in name only. They must have the ability to marshall resources, influence other leaders in the organization, and ensure others actively participate in the Stat program. If they have such influence, great. Move on to the next question. Without it, a stat program is unlikely to be a valuable use of time. 
