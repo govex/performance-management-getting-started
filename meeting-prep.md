@@ -1,5 +1,5 @@
 ##Prepare for the First Stat Meeting
-Once the city has decided to take a more evidence based approach to management, architected the framework, and identified the initial datasets, the city is well on its way to implementing a performance management program.
+Once the city has decided to take a more evidence-based approach to management, architected the framework, and identified the initial datasets, the city is well on its way to implementing a performance management program.
 
 The next step is to begin to analyze the data and prepare for the first stat meeting. At these meetings, department leads, the principal, and a panel of stakeholders will participate in a collaborative discussion of the data. This discussion is framed by analytics prepared by the stat analyst and the discussion is led either by the principal or the stat lead.
 
