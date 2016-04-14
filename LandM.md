@@ -18,7 +18,7 @@ Leaders and managers must create the conditions for employees to feel empowered 
 
   * **What can you do about it?** Make a plan, write it down, communicate it, and stick to it. Setting out a clear vision isn’t enough. Leaders and managers must articulate how the organization is going to get there, assigning actions, timelines, and measures of progress. 
 
->[Fort Lauderdale, FL](http://www.fortlauderdale.gov/home/showdocument?id=4202) and [Raleigh, NC](https://www.raleighnc.gov/government/content/BudgetManagement/Articles/StrategicPlan.html) both have strong examples of vision documents and strategic plans, which make it clear what the city intends to achieve, and when. 
+>[Fort Lauderdale, FL](http://www.fortlauderdale.gov/home/showdocument?id=4202), and [Raleigh, NC](https://www.raleighnc.gov/government/content/BudgetManagement/Articles/StrategicPlan.html), both have strong examples of vision documents and strategic plans, which make it clear what the city intends to achieve, and when. 
 
 **There is no accountability.** If leaders and managers don’t hold each other accountable for taking action, inaction will continue throughout the organization. 
 
