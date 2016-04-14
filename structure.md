@@ -17,7 +17,7 @@ If not, who will be their designee?
 
   > A Note About "Contentious" Meetings
   
-  > Performance management meetings, especially stat meetings, have a reputation for being "contentious" and are often described as "gotcha" sessions. While that style can be effective, it is not the only tone worth striving for. A better framing is "problem focused." Performance management meetings should always be problem focused. Problems are inherently difficult, and solving them can be a tense process. Therefore, constructive tension during collaborative problem solving is nothing to be afraid of.
+  > Performance management meetings, especially Stat meetings, have a reputation for being "contentious" and are often described as "gotcha" sessions. While that style can be effective, it is not the only tone worth striving for. A better framing is "problem focused." Performance management meetings should always be problem focused. Problems are inherently difficult, and solving them can be a tense process. Therefore, constructive tension during collaborative problem solving is nothing to be afraid of.
   
 <hr>
 
@@ -29,7 +29,7 @@ If not, who will be their designee?
 
 * Seattle's [SeaStat](http://www.seattle.gov/seattle-police-department/crime-data/seastat) is aimed at analyzing crime data and community incident reports to identify crime hotspots.
 
-* In Maryland's StateStat, each State department had a stat meeting once a month. Follow up items from the previous month were discussed, as well as new topics and trends. These meetings were complemented by quarterly "subject matter stats," in which all agencies that have ownership of certain topics were present.
+* In Maryland's StateStat, each State department had a Stat meeting once a month. Follow up items from the previous month were discussed, as well as new topics and trends. These meetings were complemented by quarterly "subject-matter Stats," in which all agencies that have ownership of certain topics were present.
 
 <hr>
 
