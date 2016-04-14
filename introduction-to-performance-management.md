@@ -13,7 +13,7 @@ BlightStat, a program to reduce blight within New Orleans, has achieved success 
 * Collected **$3.4** million in foreclosure liens
 * Helped **440** low-income families receive financial assistance to bring their residences up to city housing code
 
-Although there are a variety of performance management systems, including Lean and Six Sigma, “Stat” is one performance management tool that cities across the country have used to drive increases in performance. Each city customizes its stat program to its needs, but stat programs almost always include public political commitment to defined goals, continuous measurement and review of data, regular meetings with senior officials to take stock of progress, and ongoing action based on the data being tracked. These elements combine to create a system that encourages commitment, measurement, collaboration, action, and accountability.
+Although there are a variety of performance management systems, including Lean and Six Sigma, “Stat” is one performance management tool that cities across the country have used to drive increases in performance. Each city customizes its Stat program to its needs, but Stat programs almost always include public political commitment to defined goals, continuous measurement and review of data, regular meetings with senior officials to take stock of progress, and ongoing action based on the data being tracked. These elements combine to create a system that encourages commitment, measurement, collaboration, action, and accountability.
 
 Performance management helps government entities use technology and data to openly set goals, hold participants accountable, connect to stakeholders, track progress, and achieve results. By linking data to overarching priorities, collecting and analyzing data and evidence, and determining the desired outputs and outcomes, city leaders can use performance management to best administer policies and programs to the benefit of their community and residents.
 
@@ -28,7 +28,7 @@ After residents weighed in on capital spending priorities in its 2013 annual nei
 
 Building organizational culture around the use of data will be important to ensure that employees across the organization at all levels understand and use performance management principles effectively. In order to adopt these practices in depth, cities will often need assistance, coaching, and training on appropriate strategies to engage employees at all levels of government. GovEx infuses services throughout its engagements to help cities think through culture change when building performance management systems.
 
-Following is an outline of the actions a city should take to implement a successful stat performance management program:
+Following is an outline of the actions a city should take to implement a successful Stat performance management program:
 
 >* Lay the foundation
     * Identify citywide priorities
