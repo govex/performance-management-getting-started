@@ -1,6 +1,7 @@
 ## Focusing on the Right Questions
 
 One key issue that many organizations overlook is the ability of managers and staff within the organization to ask the right questions of their data. Collecting and analyzing data is critical, but without knowing what questions to ask and answer, analysis will occur haphazardly. This also reduces buy-in among staff and managers as analysis becomes less useful to daily work.
+
 The questions below are general questions to guide managers and staff as they begin using performance management techniques regularly. Specific data and circumstances often dictate different and more specific questions, but these questions can help guide management decisions while more specific processes are built.
 
 **_Problem Identification_**
