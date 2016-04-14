@@ -1,6 +1,6 @@
 ## An Introduction to Performance Management
 
-Until recently, governments made decisions largely based on instinct, anecdotal evidence, and politics. They lacked the time and resources needed to fully review the outcomes of various programs. However, the public sector is shifting toward governing with data thanks to improvements in technology, data collection, and the rise of performance management programs that emphasize the benefits of data-informed decision making. Forward-thinking governments are optimizing the power of data to create greater efficiency and better results for residents.
+Until recently, governments made decisions largely based on instinct, anecdotal evidence, and politics. They lacked the time and resources needed to fully review the outcomes of various programs. Thanks to improvements in technology, data collection, and the rise of performance management programs that emphasize the benefits of data-informed decision making, the public sector is shifting toward governing with data. Forward-thinking governments are optimizing the power of data to create greater efficiency and better results for residents.
 
 Cities across the US are seeing real success with implementing performance management programs, and some of the results are highlighted throughout this guide.
 
