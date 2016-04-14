@@ -7,7 +7,7 @@ Cities across the US are seeing real success with implementing performance manag
 > **New Orleans, LA**
 
 > In 2011, Mayor Landrieu, with the support of the city council, created the Office of Performance and Accountability (OPA). OPA’s mission is to promote better city services by incorporating data and evidence in management, decision making, and accountability to improve residents’ lives.
-BlightStat, a program to reduce blight within New Orleans, has achieved success by identifying data trends and making adjustments where necessary, including prioritizing the code enforcement process. In 2010, there were an estimated 43,755 blighted residences in the community. In just three years with the knowledge gained through BlightStat, New Orleans has:
+BlightStat, a program to reduce blight within New Orleans, achieved success by identifying data trends and making adjustments where necessary. In 2010, there were an estimated 43,755 blighted residences in the community. By  prioritizing the code enforcement process In just three years with the knowledge gained through BlightStat, New Orleans has:
 * Reduced inspection times from 160 days to 80 days
 * Reduced blight by **10,000** units
 * Collected **$3.4** million in foreclosure liens
