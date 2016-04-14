@@ -10,7 +10,7 @@
 **General Position Description**
 [ORGANIZATION] is seeking a Performance Management Analyst. 
 
-Performance management helps government entities use technology and data to openly set goals, hold participants accountable, connect to stakeholders, track progress, and achieve results. By collecting and analyzing data and evidence, determining the desired outputs and outcomes, and linking data to overarching priorities, city leaders can use performance management to best administer policies and programs to the benefit of their community and residents. The stat analyst plays a crucial role in the success of the program. 
+Performance management helps government entities use technology and data to openly set goals, hold participants accountable, connect to stakeholders, track progress, and achieve results. By collecting and analyzing data and evidence, determining the desired outputs and outcomes, and linking data to overarching priorities, city leaders can use performance management to best administer policies and programs to the benefit of their community and residents. The Stat analyst plays a crucial role in the success of the program. 
 
 The analyst will support [DEPARTMENTS, AGENCIES, INDIVIDUALS] by performing a wide variety of analytical, assessment, and administrative duties. [BRIEF DESCRIPTION OF WHERE THE CITY IS IN ITS PERFORMANCE MANAGEMENT PRACTICES.]
 
