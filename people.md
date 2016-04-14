@@ -18,13 +18,13 @@ Civil servants don’t get enough respect. They will never make a million dollar
 
 * **Why?** Many government performance management programs are modeled after New York’s CompSTAT and anyone who has seen [The Wire](https://www.youtube.com/watch?v=xH_6_8NOfwI&feature=youtu.be) believes that process doesn’t end well for employees in the hot seat. The fear of performance management being used as a tool to separate “contenders” from the “pretenders” as Harvard’s Bob Behn calls them, is a lasting legacy of many Stat programs and it’s not a sustainable feature worth replicating. 
 
-  * **What can you do about it?** [Strike a balance](https://hbr.org/2013/03/the-ideal-praise-to-criticism). Research suggests people are motivated by positive feedback more than negative (often labeled “constructive”), and the balance should tip considerably toward the positive. Managers should make it clear that taking risks based on sound information and reasoned judgement is okay, and innovative employees will be rewarded, not punished, because the organization prioritizes continuous learning over continuous punishing. 
+  * **What can you do about it?** [Strike a balance](https://hbr.org/2013/03/the-ideal-praise-to-criticism). Research suggests people are motivated by positive feedback more than negative (often labeled “constructive”), and the balance should tip considerably toward the positive. Managers should make it clear that taking risks based on sound information and reasoned judgment is okay, and innovative employees will be rewarded, not punished, because the organization prioritizes continuous learning over continuous punishing. 
   
 >The City of Alexandria, Virginia frames their [AlexStat](https://www.alexandriava.gov/performance/default.aspx?id=79335) program as a “continuous improvement” process and describes it as “a collaborative analysis and discussion that helps you and the City Manager’s Office.”
 
 **They aren’t prepared.** Inaction often occurs because employees don’t have the knowledge or training necessary to execute their work effectively. 
 
-* **Why?** If people weren’t included in the process that leading up to a decision, then they aren’t likely to support it with their time and energy.
+* **Why?** If people weren't included in the process that leading up to a decision, then they aren't likely to support it with their time and energy.
 
   * **What can you do about it?** Research [supports](http://psycnet.apa.org/journals/cpb/67/1/65/) the inclusion of employees in management decisions that affect them - and if they’re going to carry out actions to change programs, then their inclusion and participation is vital. When people understand the reasons for change, they’re more likely to support it. This is one of the underlying [fundamentals of change management theory](http://www.strategyand.pwc.com/media/file/Strategyand_Ten-Guiding-Principles-of-Change-Management.pdf). 
 
