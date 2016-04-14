@@ -2,15 +2,15 @@
 
 Stat programs have made a tremendous impact on the services delivered by governments across the country, so it's no wonder many executives want to implement them. Fortunately, the model is well documented and books like [The PerformanceStat Potential](http://www.brookings.edu/research/books/2014/the-performancestat-potential) can help guide interested governments through the lessons learned from Stat programs since the 1990s. 
 
-Unfortunately, stat programs are not copy and paste initiatives. They must be adapted to fit each organization they serve and certain conditions must be true in order for them to drive progress without wasting the valuable time of participants. Therefore, the Center for Government Excellence developed [this guide](https://drive.google.com/file/d/0B9eOOc60hbhLNEpPYjhldUMzaWc/view) to help interested governments figure out if they are ready for stat program implementation. 
+Unfortunately, Stat programs are not copy and paste initiatives. They must be adapted to fit each organization they serve and certain conditions must be true in order for them to drive progress without wasting the valuable time of participants. Therefore, the Center for Government Excellence developed [this guide](https://drive.google.com/file/d/0B9eOOc60hbhLNEpPYjhldUMzaWc/view) to help interested governments figure out if they are ready for Stat program implementation. 
 
-####If the answer to any of these questions is "no," then you are not ready for a stat program. 
+####If the answer to any of these questions is "no," then you are not ready for a Stat program. 
 
 * **Do you have a senior executive to champion this work?** 
-Without a champion at the senior executive level, (i.e., Mayor, city manager or any other elected or appointed leader) Stat programs are unlikely to be more than collaborative conversations among colleagues. A senior executive can move resources, give direction, and be the ultimate arbiter of tough issues where disagreement exists within the organization. If such an individual exists in your government organization, great. Move on to the next question. Without him or her, a stat program is a non-starter. 
+Without a champion at the senior executive level, (i.e., Mayor, city manager or any other elected or appointed leader) Stat programs are unlikely to be more than collaborative conversations among colleagues. A senior executive can move resources, give direction, and be the ultimate arbiter of tough issues where disagreement exists within the organization. If such an individual exists in your government organization, great. Move on to the next question. Without him or her, a Stat program is a non-starter. 
 
 * **Does that champion have the influence to garner participation from the entire management team?**
-The executive champion or principal cannot be a champion in name only. They must have the ability to marshall resources, influence other leaders in the organization, and ensure others actively participate in the Stat program. If they have such influence, great. Move on to the next question. Without it, a stat program is unlikely to be a valuable use of time. 
+The executive champion or principal cannot be a champion in name only. They must have the ability to marshall resources, influence other leaders in the organization, and ensure others actively participate in the Stat program. If they have such influence, great. Move on to the next question. Without it, a Stat program is unlikely to be a valuable use of time. 
 
 * **Does the champion and management team have clear strategic goals for the organization?**
 If your executive champion and senior management team have no collective strategic vision or goals for the organization, then your Stat program will be a solution constantly chasing a problem. Effective Stat programs almost always begin with a clear purpose and vision for what they are seeking to accomplish. Without that clarity of purpose, a Stat program is likely to be unfocused and poorly executed. Instead of starting a Stat program, consider launching a strategic visioning process with stakeholders. 
@@ -25,7 +25,7 @@ If your executive champion and senior management team have no collective strateg
 * **Are there analysts positioned high enough in the organization to analyze everyone's data?**
   * **Yes:** Continue to the next question
   * **No, but we are willing to create a team:** Continue to the next question, because if you really create an analytics team and empower them, then a Stat program could be the right next step for you (even if a few remaining things are missing)
-  * **No, and that's not going to happen:** Stop. Your organization is not ready for a Stat program. Data is useless without analysis, and analysis requires people. If you are not willing to establish analytical support for your stat efforts and are not willing to empower them with the ability to look at data from across the organization, then you aren't truly committed yet.
+  * **No, and that's not going to happen:** Stop. Your organization is not ready for a Stat program. Data is useless without analysis, and analysis requires people. If you are not willing to establish analytical support for your Stat efforts and are not willing to empower them with the ability to look at data from across the organization, then you aren't truly committed yet.
 
 * **Do the managers and executive champion take action based on analysis?**
   * **Yes:** Continue to the next question
