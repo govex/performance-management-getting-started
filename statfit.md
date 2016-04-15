@@ -2,7 +2,7 @@
 
 Stat programs have made a tremendous impact on the services delivered by governments across the country, so it's no wonder many executives want to implement them. Fortunately, the model is well documented and books like [The PerformanceStat Potential](http://www.brookings.edu/research/books/2014/the-performancestat-potential) can help guide interested governments through the lessons learned from Stat programs since the 1990s.
 
-Unfortunately, Stat programs are not copy and paste initiatives. They must be adapted to fit each organization they serve and certain conditions must be true in order for them to drive progress without wasting the valuable time of participants. Therefore, the Center for Government Excellence developed [this guide](https://github.com/govex/performance-management-getting-started/raw/master/StatFit.pdf) to help interested governments figure out if they are ready for Stat program implementation. 
+Unfortunately, Stat programs are not copy and paste initiatives. They must be adapted to fit each organization they serve and certain conditions must be true in order for them to drive progress without wasting the valuable time of participants. Therefore, the Center for Government Excellence developed [this guide](https://github.com/govex/performance-management-getting-started/blob/master/StatFit.pdf) to help interested governments figure out if they are ready for Stat program implementation. 
 
 ####If the answer to any of these questions is "no," then you are not ready for a Stat program.
 
