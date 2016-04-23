@@ -19,6 +19,8 @@ At GovEx, we encourage governments to use a diverse set of performance measures,
 
   One of the best resources for understanding performance measurement, particularly in a strategic management context, is [Fairfax County’s Advanced Performance Management Manual](http://www.fairfaxcounty.gov/dmb/performance_measurement/manages_for_results.pdf):
   
+  <img src="https://raw.githubusercontent.com/govex/performance-management-getting-started/master/Pics/Family%20of%20Measures.png">
+  
 ###What Makes a Good Performance Measure?
 
 The typical performance measurement guidance usually says performance measures should be [S.M.A.R.T.](https://en.wikipedia.org/wiki/SMART_criteria), a commonly used mnemonic acronym in performance management. It provides criteria for drafting strong goal statements. The concept originated in 1954 when Peter Drucker published a book about management by objectives. The idea is to ensure each goal statement fits all of the criteria in the acronym. The letters S and M usually mean specific and measurable, but the rest have numerous interpretations
