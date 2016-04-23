@@ -1,4 +1,4 @@
-#MEMORANDUM
+#MEMORANDUM (sample)
 ------
  
 **To:**          	Department Lead
@@ -25,3 +25,7 @@ As a result of our recent meeting, please provide brief written responses to the
  
 The Next Departmental Meeting will be DATE at TIME in LOCATION
 Follow-up materials will be due DAY, DATE.
+
+#MEMORANDUM (examples)
+* [Jackson, MS - JackStat](performance-management-getting-started/Follow-UpMemo-November18.pdf)
+* [Prince George's County, MD - CountyStat](http://www.princegeorgescountymd.gov/sites/CountyStat/Resources/Session-DocumentArchive/Pages/default.aspx)
