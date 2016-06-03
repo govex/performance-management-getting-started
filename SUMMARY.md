@@ -19,6 +19,7 @@
   * [Determine Meeting Structure](structure.md)
   * [Preparing for Launch](launch-questions.md)
   * [Host a Stat Meeting](stat-meeting.md)
+  * [Stat Seating Chart (Example)](statseat.md)
 * [Take Action](action.md)
  * [Causes of Inaction](inaction.md)
  * [People](people.md)
