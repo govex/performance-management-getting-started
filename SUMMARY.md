@@ -6,6 +6,7 @@
   * [Identify Priorities](identify-citywide-priorities.md)
   * [Set Goals](set-goals.md)
   * [Measure Progress](measure.md)
+   * [Measure the Measurers](measurethem.md)
 * [Gather a Team and Data](gather-team.md)
   * [Align Data to Goals](align-data.md)
 * [Conduct Relevant Analysis](analyze.md)
