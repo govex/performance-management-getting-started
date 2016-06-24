@@ -7,6 +7,9 @@ Government performance management has gained popularity at the local level. Citi
 
 The [Center for Government Excellence at Johns Hopkins University](http://centerforgov.org), a partner in the [What Works Cities initiative](http://www.whatworkscities.org), has created this getting started guide to assist cities in implementing performance management programs in their own communities. By learning from the experiences of other cities and following the steps described in this guide, cities will have a greater understanding of performance management and be well on their way to launching their own performance management program.
 
+<img src=https://raw.githubusercontent.com/govex/govex.github.io/master/images/WWC_ResourceStamp_web.png width=250 height=250 />
+
+
 
 
 
