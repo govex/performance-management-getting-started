@@ -6,6 +6,7 @@
   * [Identify Priorities](identify-citywide-priorities.md)
   * [Set Goals](set-goals.md)
   * [Measure Progress](measure.md)
+   * [Building Strong Performance Measures](Building_Measures.md)
    * [Measure the Measurers](measurethem.md)
 * [Gather a Team and Data](gather-team.md)
   * [Align Data to Goals](align-data.md)
@@ -35,4 +36,3 @@
  * [Sample Follow-Up Memo](appendix-c.md)
  * [Sample Stat Analyst Job Description](appendix-d.md)
  * [Sample Stat Questions](appendix-e.md)
-
