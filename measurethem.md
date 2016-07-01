@@ -8,7 +8,7 @@ If government employees are expected to participate in performance analytics and
  
 The Center for Government Excellence at Johns Hopkins University developed this guide to help the governments figure out how to measure the measurers. It includes tips and advice for establishing metrics that raise a mirror to performance practices and reflect back the value added or lost along the way.
 <ol>
-<li>Meausre the Fundamentals</li>
+<li>Measure the Fundamentals</li>
 <li>Get in the Weeds</li>
 <li>Get out of the Weeds</li>
 <li>Make it Worth Their Time</li>
