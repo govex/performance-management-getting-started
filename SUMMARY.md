@@ -31,15 +31,8 @@
  * [Insights](insights.md)
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
-<<<<<<< HEAD
+
 * [Appendix A: Performance Management Principles](appendix-a.md)
 * [Appendix B: Sample Stat Memo](appendix-b.md)
 * [Appendix C: Sample Follow-Up Memo](appendix-c.md)
 * [Appendix D: Sample Stat Analyst Job Description](appendix-d.md)
-=======
-* Appendices
- * [Sample Stat Memo](appendix-b.md)
- * [Sample Follow-Up Memo](appendix-c.md)
- * [Sample Stat Analyst Job Description](appendix-d.md)
- * [Sample Stat Questions](appendix-e.md)
->>>>>>> master
