@@ -2,14 +2,13 @@
 
 So your city has setup a performance management framework, what's next? Many cities joining the evidence-based government movement are beginning to recognize the importance of engaging their residents in exciting new conversations on how data and evidence can solve problems and improve their quality of life and sharing progress made during performance management processes. GovEx has compiled samples of dashboards, press releases, articles, infographics, blog entries, interviews, and social media communications that others have used to discuss Stat success stories. Our hope is that these examples will provide a knowledge base for cities as they seek to share their own progress and innovation.
 
-[Albuquerque | Progress Report, 2014](#Albuquerque)
-[Chattanooga | ChattaData, 2014](#Chattanooga)
-[Kansas City | KCStat, 2013 – 2014](#KCMO)
-[King County, Washington | Healthy Incentives, 2014](#King)
-[Louisville, KY | Innovation Delivery Team, Mayor Fischer, 2012](#Louisville)
-[New Orleans, LA | BlightStat, Mayor Landrieu, 2012](#NOLA)
-[Santa Monica, CA | Wellbeing Project, 2014](#Santa)
-
+* [Albuquerque | Progress Report, 2014](#Albuquerque)
+* [Chattanooga | ChattaData, 2014](#Chattanooga)
+* [Kansas City | KCStat, 2013 – 2014](#KCMO)
+* [King County, Washington | Healthy Incentives, 2014](#King)
+* [Louisville, KY | Innovation Delivery Team, Mayor Fischer, 2012](#Louisville)
+* [New Orleans, LA | BlightStat, Mayor Landrieu, 2012](#NOLA)
+* [Santa Monica, CA | Wellbeing Project, 2014](#Santa)
 
 **Albuquerque | Progress Report, 2014**
 <a name="Albuquerque"></a>
