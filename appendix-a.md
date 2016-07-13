@@ -10,7 +10,7 @@ So your city has setup a performance management framework, what's next? Many cit
 
 *Website and dashboards*
 
- <img src="https://drive.google.com/file/d/0B3D_5mo12oglbnNFTkZDbDkwNDg/view?usp=sharing">
+ <img src="/Pics/abqprogressreport copy.png">
 
 Source: [ABQ Progress Report](http://abqprogressreport.sks.com/)
 
