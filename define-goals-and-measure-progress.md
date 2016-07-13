@@ -3,7 +3,7 @@
 ## A. Set Short, Intermediate, and Long-Term Goals
 
 Once the foundation is established, department leaders and other high-level actors must establish goals and define measurements of success for everyone involved.
- 
+
 Useful goals have the following elements:
 
 * **Well Defined**: A city must address the strategies the department lead will employ to use resources most effectively and articulate how the department will improve services for its constituents. Some examples of specific goals are to reduce overtime, increase acres of land using cover crops, or reduce error rates in the administration of benefits.
@@ -42,7 +42,7 @@ Once the principal and the department leads have settled on the strategic framew
 
 It is important to introduce organization across goal areas during data collection. To help with this process, assume that most performance management data can be organized into one of two general categories: operational data and subject matter data.
 
-* *Operational Data*: Operational data is typically collected across multiple organizations, such as financial or human resources data. 
+* *Operational Data*: Operational data is typically collected across multiple organizations, such as financial or human resources data.
 * *Subject Matter Data*: Subject matter data tells leadership about the performance of various programs, such as average length of stay in juvenile detention or third grade reading test scores.
 
 ### Identify Output and Outcome Metrics, KPIs
@@ -91,7 +91,7 @@ Often this is the data serves as a prevailing metric or a critical indicator tha
 
 #### Validating Data for Measuring Outcomes
 
-Validating data is data that is recognized as the standard, or that by its nature, is endorsed publically as the key metric for specific measures. The following are common examples of validating data:
+Validating data is data that is recognized as the standard, or that by its nature, is endorsed publicly as the key metric for specific measures. The following are common examples of validating data:
 
 * **Unemployment Rate**: In this changing economy, most governments are focused on employment and use the unemployment rate as a bellwether for economic recovery. This information is provided in a dataset from the Bureau of Labor Statistics and is universally used as benchmark employment data.
 * **Crime Rate**: The Uniform Crime Reports (FBI) are used domestically as the standard for measuring crime from the national level to the local level.
