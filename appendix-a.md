@@ -3,17 +3,33 @@
 So your city has setup a performance management framework, what's next? Many cities joining the evidence-based government movement are beginning to recognize the importance of engaging their residents in exciting new conversations on how data and evidence can solve problems and improve their quality of life and sharing progress made during performance management processes. GovEx has compiled samples of dashboards, press releases, articles, infographics, blog entries, interviews, and social media communications that others have used to discuss Stat success stories. Our hope is that these examples will provide a knowledge base for cities as they seek to share their own progress and innovation.
 
 **Albuquerque | Progress Report, 2014**
+
 *Website and dashboards*
+
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/abqprogress%20copy.png">
 
 Source: [ABQ Progress Report](http://abqprogressreport.sks.com/)
 
 **Chattanooga | ChattaData, 2014**
+
 *Sample Tweets*
 
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/chattadatta.png">
+
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/chattadata2.png">
+
 **Kansas City | KCStat, 2013 – 2014**
+
 *Sample Social Media Use*
 
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kcstat.png">
+
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kcstat2.png">
+
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kcstat3.png"
+
 **King County, Washington | Healthy Incentives, 2014**
+
 *Article*
 
 ###King County's Wellness Plan Beats the Odds
@@ -37,6 +53,7 @@ Employee health improved dramatically, raising King County employees’ health s
 With an average age of 48.5 years and practically no turnover, the county’s worker population is getting healthier even as it’s growing older.  
 
 **Outsized Performance**
+
 These results, documented in a 2012 internal report by former staff economist John Scoggins, are remarkable when compared to the generally lackluster performance of other wellness programs run by large U.S. organizations, including state and local governments. According to a [2013 report](http://www.rand.org/content/dam/rand/pubs/research_reports/RR200/RR254/RAND_RR254.sum.pdf) from the Rand Corporation, about half of all U.S. large employers offer some type of wellness program and the number is growing. But few end up saving any money and employee participation has been limited. Many fizzle out after a year or two.
 
 On average, only 47 percent of employees participate nationwide, and only 2 percent of organizations that offer the plans report any reduction in health care costs, according to the study, which was funded by the U.S. Departments of Labor and Health and Human Services. Overall savings from wellness plans offered by the organizations Rand surveyed were too small to be statistically valid.
@@ -48,7 +65,10 @@ King County’s intensive education and outreach effort cost the county nearly $
 The biggest draw, Bascom said, has been the financial incentives King County offers its employees for participating.  Other wellness programs offer much less substantial rewards, according to the Rand report.
 Among the 10 percent of employees who don’t participate in Healthy Incentives, most say it’s because they don’t want to share private information about themselves. A small number are given exceptions because of health conditions or family issues that prevent them from participating.
 
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kingcounty.png">
+
 **More Than a Wellness Plan**
+
 Healthy Incentives offers a model that state and local governments should replicate, said Stephen Goldsmith, director of the innovations award program at Harvard’s Kennedy School of Government. Washington state is already emulating parts of King County’s wellness plan and Oregon is trying to start a similar program. 
 
 Here’s how the financial incentive part of the program works:
@@ -60,6 +80,7 @@ In addition, employees who did not participate in the program had to pay a 10 pe
 The program also encourages the use of less expensive generic drugs by increasing the co-pay for name-brand drugs from $15 to $30, while decreasing the co-pay for generic drugs from $10 to $7. These changes, put in place in 2010, resulted in $2.4 million savings to the county and a $1 million savings to employees by 2011.
 
 **Higher Value Providers**
+
 The wellness program began when former County Executive Ron Sims, credited with the big idea, donated $1.3 million in county dollars to help a fledgling health care organization, the Puget Sound Health Alliance, develop a [medical claims database](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2014/06/06/qa-can-claims-data-crack-the-health-care-cost-riddle) to help identify doctors and hospitals in the county that offered the highest quality services at the lowest prices. He also recruited large local employers including Alaska Airlines, Boeing and Starbucks to contribute money to the effort.
 
 By analyzing claims data, the group found that one provider organization, Group Health Cooperative, was costing the county an average of $4,000 less per person per year while providing higher quality services than all other providers in the area. Group Health already served 20 percent of the county’s employees through its Seattle-based accountable care organization.
@@ -71,6 +92,7 @@ To encourage more employees to use Group Health, the county eliminated the deduc
 Now called the Washington Health Alliance, the group plans to determine the highest-value services by physician groups and hospitals within the Regence network. Once those providers are identified, employees will once again be steered in their direction through reduced out-of-pocket expenses. 
 
 **Too Much Rigmarole**
+
 Not everyone loved the program in the beginning. In its first two years, county employees objected to the time spent filling out forms and documenting their action plans. Some lodged formal complaints. Kathy Pompeo was one of them.  
 
 A supervisor in the Sheriff’s Office, Pompeo runs a 24-hour crew of data-entry workers who have little time to fill out online forms detailing their daily wellness activities. “My staff was very frustrated and very negative,” she said. They were spending more time reporting on their activities than working on their healthy behaviors. They participated, “kicking and screaming.”
@@ -81,6 +103,7 @@ Even the county executive complained that the process was cumbersome.  “You�
 Now employees can text their activity to the program: “I’m walking my dog,” for example. And the county applies points toward their full participation status. 
 
 Has the county made it too easy to comply? Bascom doesn’t think so.  Research shows that healthy habits can be formed in just four weeks. As for employees gaming the system by not really performing the activities they say they are, Bascom and others said they doubted much, if any, of that was going on.
+
 “We’re a pretty ethical group,” Pompeo said, and there’s peer pressure to do the right thing. “It’s like having a running buddy or a diet buddy, only lots of them,” she said.
 
 When Constantine took office in 2009, he was asked whether he wanted to continue the program. His response was immediate. “There was no question about continuing it,” he said.  “Every employee was doing it, so it got internalized…. My question is why this hasn’t been done a thousand times before.”
@@ -88,6 +111,7 @@ When Constantine took office in 2009, he was asked whether he wanted to continue
 Source: Stateline. King’s County Wellness Plan Beats the Odds. Pewtrusts.org. July 22, 2014. http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2014/07/22/king-countys-wellness-plan-beats-the-odds. April 30, 2015.
 
 **Louisville, KY | Innovation Delivery Team, Mayor Fischer, 2012**
+
 *Press Release*
 
 ###Louisville Innovative Delivery Team to Tackle Urban Problems
@@ -121,6 +145,7 @@ The team will be led by Director Margaret Handmaker.
 Source: "Louisville Innovative Delivery Team to Tackle Urban Problems." 893 WFPL News RSS. 30 May 2012. Web. 23 Apr. 2015. http://archives.wfpl.org/2012/05/30/louisville-innovative-delivery-team-to-tackle-urban-problems/.
 
 **New Orleans, LA | BlightStat, Mayor Landrieu, 2012**
+
 *Press Release*
 
 ###City surpasses blight reduction milestone of 10,000 units by 2014
@@ -148,6 +173,7 @@ Since the Blight Reduction Strategy launched:
 In 2014, the City is doubling down on efforts to reduce blight across New Orleans and will ensure the tools are in place to keep up the momentum. The 2014 budget invests nearly $500,000 dollars for new inspectors and title research staff to help speed up the process.
 
 **New process using data-driven decision-making**
+
 In 2010, the City launched the BlightSTAT management program in order to coordinate data and information to measure blight and track the City’s progress toward meeting goals related to Mayor Landrieu’s Blight Reduction Strategy. BlightSTAT meetings are working meetings, open to the public, and are intended to provoke constructive dialogue on what’s working, what’s not, and what the various City departments and agencies need to do to improve. Citizens are invited to these public meetings to ask questions and to provide input on how the City’s blight reduction programs can be improved. The analysis for BlightSTAT meetings are held every second Thursday of the month at 8:00 a.m. in the 8th floor conference room at City Hall.
 
 “At BlightSTAT, we’ve proved that if you can measure it, you can manage it. I want to thank Mayor Landrieu, the blight reduction team at City Hall, and the hundreds of citizen activists who have recognized the value of data to drive results and have helped make BlightSTAT a success,” said Oliver Wise, Director of the Office of Performance and Accountability.
@@ -156,6 +182,7 @@ In order to improve efficiency, the City implemented a new information technolog
 In 2012, the City partnered with Code for America to create a website called BlightStatus , an interactive online tool for residents to track the progress of blighted units within the Code Enforcement system in New Orleans. For the first time in the City of New Orleans’ history, residents can now review up-to-date property information directly from City records without stepping foot inside City Hall. BlightStatus has improved the City’s work with neighborhood groups and individual residents in the fight on blight.
 
 **Restructuring and reorganizing**
+
 In order to streamline accountability and improve coordination, the City reorganized its blight fighting-departments in 2010. In the past, Housing Code Enforcement was responsible for inspecting blighted properties and Environmental Health was responsible for inspecting overgrown lots. To improve coordination and efficiency, the City merged those two departments, and since then, Code Enforcement has performed over 54,000 inspections.
 
 The City also dramatically improved the capacity of its administrative hearings section so that more blight cases could be heard. In 2011, the average time between the initial property inspection and a hearing was 160 days. In 2013, that time was cut in half to 80 days.
@@ -163,11 +190,13 @@ The City also dramatically improved the capacity of its administrative hearings 
 In addition, the City now has dedicated staff for researching real estate ownership of blighted properties, preparing cases for legal actions as well as a legal team that files foreclosures on properties eligible for Sheriff’s sale. The 2014 budget invests nearly $500,000 dollars for new inspectors and title research staff to help speed up the process.
 
 **Better enforcement policies in place**
+
 In the past, the City’s code enforcement process was ineffective because owners of blighted properties faced no consequences for failing to pay their code liens and/or bringing their properties into compliance. As part of the new Blight Reduction Strategy, the City has strengthened the code enforcement process by utilizing the enforcement tools available in order to obtain compliance, including Sheriff’s sale or demolition. Since 2010, the City has filed writs of foreclosure on 1505 delinquent properties and demolished over 4,000 blighted units.  
 
 In 2013, the City Council passed new ordinances proposed by the Landrieu Administration that significantly strengthen the City’s enforcement capabilities on residential and commercial blight. Under the revisions, all properties must comply with minimum property standards, such as sanitary and maintained yards and structurally sound, secure buildings. Previously, this was only enforced on unoccupied properties. If a property is occupied, additional standards will be required, such as, ensuring that properties supply sufficient ventilation, plumbing, and electricity. These new requirements protect basic quality of life needs for all residents.   
 
 **Creating opportunities for redevelopment**
+
 In addition to stronger enforcement against blighted property owners, the City’s Blight Reduction Strategy works to provide opportunities for residents to do their part to clean up their neighborhoods and/or to return blighted properties back into commerce.
 
 In 2012, the City re-launched the Soft Second First Time Homebuyer Assistance Program . Since then, it has provided purchase assistance and closings cost assistance to over 500 households throughout the city. The Affordable Homeownership Development Program component of the program has resulted in the transfer of 70 formerly blighted properties to be rehabilitated and to construct new homes for persons of low and moderate income. In total, the program will have stimulated the rehabilitation or new construction of homes on nearly 200 formerly blighted and vacant properties primarily located in place-based development areas.
@@ -179,6 +208,7 @@ NORA is in the final stages of the NSP2 program having provided financing to ove
 As part of the City’s on-going effort to get the community involved in rebuilding their neighborhoods, the City organized five Fight the Blight Days and subsequently six NOLA FOR LIFE Days since 2010. The events leverage and foster community involvement while remediating blight issues and providing City resources to residents. The next NOLA FOR LIFE Day is scheduled for Saturday, January 11, 2013 . 
 
 **Strategy earns national recognition**
+
 In 2012, the Harvard University Kennedy School of Government Ash Center for Democratic Governance and Innovation recognized the City’s Blight Reduction Strategy as a “Bright Idea in Government.” The Bright Ideas initiative is designed to promote creative government initiatives and partnerships and create an online community where innovative ideas can be proposed, shared, and disseminated.
 
 Additionally, the City’s Blight Reduction Strategy was awarded the U.S. Department of Housing and Urban Development Secretary’s Award at the 2012 Council on Philanthropy Conference for its public-philanthropic partnership with the Greater New Orleans Foundation (GNOF), NORA and the Center for Community Progress (CCP).  Through this partnership, New Orleans is developing a national model for addressing blight. Cities from across Louisiana and the country are working to replicate the success of New Orleans.
@@ -188,6 +218,11 @@ Hebert and Wise are 2012 recipients of the Innovation Award from the Bureau of G
 Source: "City Surpasses Blight Reduction Milestone of 10,000 Units by 2014." Www.nola.gov. N.p., 9 Jan. 2014. Web. 23 Apr. 2015. http://www.nola.gov/mayor/press-releases/2014/20140109-blight/.
 
 **Santa Monica, CA | Wellbeing Project, 2014**
+
 *Infographic*
 
 “Let’s go beyond economic indicators and use the science of wellbeing. Let’s understand what we’re doing well – and where we as a community can take steps to improve.”
+
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/santamonica.png">
+
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/santamonica2.png">
