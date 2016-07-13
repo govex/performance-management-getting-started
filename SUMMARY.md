@@ -32,7 +32,7 @@
 * [Conclusion](conclusion.md)
 * [Glossary](glossary.md)
 
-* [Appendix A: Performance Management Principles](appendix-a.md)
+* [Appendix A: Communicating Progress](appendix-a.md)
 * [Appendix B: Sample Stat Memo](appendix-b.md)
 * [Appendix C: Sample Follow-Up Memo](appendix-c.md)
 * [Appendix D: Sample Stat Analyst Job Description](appendix-d.md)
