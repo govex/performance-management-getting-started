@@ -18,19 +18,19 @@ Source: [ABQ Progress Report](http://abqprogressreport.sks.com/)
 
 *Sample Tweets*
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12oglU1dhaFVhUEUxZjQ/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/chattadatta.png">
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12ogleWFqVWQweEg0S1U/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/chattadata2.png">
 
 **Kansas City | KCStat, 2013 – 2014**
 
 *Sample Social Media Use*
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12oglRDZ0WWx6Y2c3SGs/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kcstat.png">
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12ogld2VvUDQyMzhHUFU/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kcstat2.png">
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12oglQXhSejNxUG1DQUU/view?usp=sharing"
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kcstat3.png"
 
 **King County, Washington | Healthy Incentives, 2014**
 
@@ -69,7 +69,7 @@ King County’s intensive education and outreach effort cost the county nearly $
 The biggest draw, Bascom said, has been the financial incentives King County offers its employees for participating.  Other wellness programs offer much less substantial rewards, according to the Rand report.
 Among the 10 percent of employees who don’t participate in Healthy Incentives, most say it’s because they don’t want to share private information about themselves. A small number are given exceptions because of health conditions or family issues that prevent them from participating.
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12ogla3dVQ2RiZWZLajg/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/kingcounty.png">
 
 **More Than a Wellness Plan**
 
@@ -227,6 +227,6 @@ Source: "City Surpasses Blight Reduction Milestone of 10,000 Units by 2014." Www
 
 “Let’s go beyond economic indicators and use the science of wellbeing. Let’s understand what we’re doing well – and where we as a community can take steps to improve.”
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12oglZDA0aEZqcXNzQnc/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/santamonica.png">
 
-<img src="https://drive.google.com/file/d/0B3D_5mo12oglVTdmako4ZWdVdFU/view?usp=sharing">
+<img src="https://github.com/govex/performance-management-getting-started/blob/master/Pics/santamonica2.png">
