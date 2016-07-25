@@ -24,7 +24,7 @@
 * [Take Action](action.md)
  * [Causes of Inaction](inaction.md)
  * [People](people.md)
- * [Leadership & Management](LandM.md)
+ * [Leadership & Management](Leadership-and-management.md)
  * [Resources](resources.md)
  * [Laws & Policy](laws.md)
  * [Process](process.md)
