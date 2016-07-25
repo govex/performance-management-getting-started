@@ -6,7 +6,7 @@ As a result, of budget constraints and limited resources which have always exist
 
 Cities across the country have embraced the concept of performance management otherwise referred to as PerformanceStat, a process of setting goals, identifying metrics, assessing performance, and evaluating employees’ performance and program outcomes to inform decision making. PerformanceStat is a continuous process where city government executives work with their staff to deliver results to city residents. Today, managers are focused on leveraging data, analysis, responsibility, discretion, and power to convene follow-ups to improve performance with the various Stat models.
 
-Performance management presents tremendous value to the city administration and here are 30 reasons your city should consider Stat program:
+Performance management presents tremendous value to the city administration and here are 30 reasons your city should consider establishing a Stat program:
 
 1. Enhances the effectiveness of city governance and helps the city to accomplish its goals and objectives.
 2. Provides opportunities for departments to communicate constraints to executives and negotiate solutions.
