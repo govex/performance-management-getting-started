@@ -44,7 +44,7 @@ Team attitude: He or she must understand the relationship his or her work has to
 
 Once the team has been identified, the Stat analyst will lead the effort to collect and track data. The first step is to create a data inventory, which is crucial to support goal setting. If a city has an existing set of priorities or a strategic framework, use it to guide the data collection process by prioritizing the datasets that are related to the priorities, and the departments that may own the data.
 
-The Stat analyst should set up a meeting with the department lead and his or her leadership team, as well as the data experts mentioned above. Prior to this first meeting, a city should ask the invitees to come to the table with any data they own or know that the department is collecting. Many will not see themselves as data owners or managers, so it is critically important to help them understand what is meant by “data.” The following types of questions can help with data collection and discovery before the meeting. For a more thorough discussion of uncovering datasets, see our Dataset Prioritization Guidelines.
+The Stat analyst should set up a meeting with the department lead and his or her leadership team, as well as the data experts mentioned above. Prior to this first meeting, a city should ask the invitees to come to the table with any data they own or know that the department is collecting. The following types of questions can help with data collection and discovery before the meeting. For a more thorough discussion of uncovering datasets, see our Dataset Prioritization Guidelines.
 
 1. Do you provide information for reports on federal, state, or nonprofit grants?
 1. Do you manage a database?
@@ -54,6 +54,8 @@ The Stat analyst should set up a meeting with the department lead and his or her
 1. Do you already have a performance-based budgeting or evaluation program?
 1. What data is often requested by the public through FOIA requests, 311 or some other method?
 1. Does the data align with an agency or citywide initiative?
+
+GovEx recommends that cities begin their data inventory with the datasets that are more critical to decision making (311, call center data), or datasets that are relevant to a particular initiative (BlightStat, CompStat, BayStat). In addition to streamling the workload, this approach can allow the city to work out any pain points that might crop up. Common pain points include defining terms like dataset, data, and information; communicating the importance of identifying data ownership; and prioritizing this work in the face of other pressing responsibilities.
 
 > **Las Vegas, NV**
 
