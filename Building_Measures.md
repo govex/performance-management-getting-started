@@ -58,7 +58,7 @@ A logic model usually begins with a stated desired outcome and then works backwa
 * What do we actually do or produce that influences that outcome?
 * What would we measure to know whether our work was influencing that outcome?
 
-The most comprehensive tool for understanding logic modeling was written in 2004 by the Kellogg Foundation. It is called a [Logic Model Development Guide](http://www.smartgivers.org/uploads/logicmodelguidepdf.pdf). GovEx has published a highly simplified version of it on our [Performance Alignment Guide](https://drive.google.com/file/d/0B9eOOc60hbhLUG55bURsSTZwdms/view?usp=sharing`). It is everything listed on the right side of the guide. In short, you do the following during the process of logic modeling:
+The most comprehensive tool for understanding logic modeling was written in 2004 by the Kellogg Foundation. It is called a [Logic Model Development Guide](https://www.wkkf.org/resources/). GovEx has published a highly simplified version of it on our [Performance Alignment Guide](https://drive.google.com/file/d/0B9eOOc60hbhLUG55bURsSTZwdms/view?usp=sharing`). It is everything listed on the right side of the guide. In short, you do the following during the process of logic modeling:
 
 * Define what resources/inputs you can leverage
 * Make a list of all the activities/programs that consume resources
