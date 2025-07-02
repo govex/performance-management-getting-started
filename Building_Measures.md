@@ -42,13 +42,13 @@ One of the best resources for constructing performance measurement in context is
 
 For more advanced organizations, Fairfax also publishes a [Guide to Data Collection](http://www.fairfaxcounty.gov/dmb/performance_measurement/data_collection_manual.pdf) (written before open data was a thing, but still very relevant content), a [Surveying for Customer Satisfaction Manual](http://www.fairfaxcounty.gov/dmb/performance_measurement/survey_manual.pdf), and an advanced guide called [Managing for Results](http://www.fairfaxcounty.gov/dmb/performance_measurement/manages_for_results.pdf).
 
-In Oregon, the City of Portland publishes a [Performance Management Manual](https://www.portlandoregon.gov/cbo/article/513721), which includes guidelines for city employees on how to select or create performance measures. Multnomah County publishes a [Performance Management Manual](https://multco.us/file/27288/download), which includes logic modeling (see next section).
+In Oregon, the City of Portland publishes a [Citywide Performance Management and Technical Guidance](https://www.portland.gov/budget/2021-2022-budget/documents/section-5-performance-citywide-performance-management-technical/download), which includes guidelines for city employees on how to select or create performance measures. Multnomah County publishes a [Performance Measurement](https://multco.us/info/performance-measurement), which includes logic modeling (see next section).
 
 Other notable resources for constructing performance measures from scratch include:
 
-* A professor at the University of Wisconsin published a [performance measurement guide](http://localgovinstitute.org/sites/default/files/Performance%20Measurement%20manual%20Volume%20II.pdf) for local Wisconsin government's in 2009.
+* A professor at the University of Wisconsin published a [performance measurement guide](https://cjcc.doj.wi.gov/sites/default/files/files/2024%20Deflection%20Performance%20Measures%20Guide.pdf) for local Wisconsin government's in 2009.
 * The State of Texas has a [Guide to Performance Measure Management](http://www.sao.texas.gov/reports/main/12-333.pdf), published in 2012.
-* The National Performance Management Advisory Commission published a [Performance Management Framework for State and Local Government: From Measurement and Reporting to Managing and Improving](http://www.nasbo.org/sites/default/files/APerformanceManagementFramework.pdf).
+* The National Performance Management Advisory Commission published a [Performance Management Framework for State and Local Government: From Measurement and Reporting to Managing and Improving](https://www.nasact.org/files/News_and_Publications/White_Papers_Reports/2010_06_01_NASACT_GFOA_A_Performance_Management_Framework.pdf).
 
 \###Back Into It Across almost all of the resources mentioned above, you will see mention of the phrase “logic modeling.” Logic modeling can be a very useful tool for finding the right performance measures and there is a wealth of published guidance on how to construct and execute a logic model.
 
